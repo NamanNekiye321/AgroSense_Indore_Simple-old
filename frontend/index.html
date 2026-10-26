@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <!--
+        FILE: index.html
+        WHO MADE THIS: Luv
+        WHAT IT DOES: The main page the farmer sees in the browser.
+                      It has input sliders for soil values and shows
+                      the crop recommendation after the farmer submits.
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroSense Indore - Crop Advisor</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Zero-flicker dark mode: runs BEFORE any CSS loads so no white flash -->
+    <script>
+        const saved = localStorage.getItem('agrosense_theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', saved);
+    </script>
+</head>
+<body>
+
+    <!-- ====== TOP NAVIGATION BAR ====== -->
+    <header class="navbar">
+        <div class="navbar-brand">
+            <span class="brand-icon">🌾</span>
+            <span class="brand-name">AgroSense Indore</span>
+            <span class="brand-subtitle">AI Crop Advisor</span>
+        </div>
+        <div class="navbar-controls">
+            <!-- Language toggle button -->
+            <button id="lang-toggle" class="btn-outline" onclick="toggleLanguage()">हिंदी</button>
+            <!-- Dark/Light mode toggle -->
+            <button id="theme-toggle" class="btn-outline" onclick="toggleTheme()">☀️ Light</button>
+        </div>
+    </header>
+
+    <!-- ====== MAIN CONTENT ====== -->
+    <main class="container">
+
+        <!-- Left Panel: Soil Input Form -->
+        <section class="card input-card">
+            <h2 class="card-title" data-i18n="soil_title">Soil & Climate Details</h2>
+            <p class="card-desc" data-i18n="soil_desc">Enter your soil test values or select a tehsil to auto-fill.</p>
+
+            <!-- Tehsil Selector -->
+            <div class="form-group">
+                <label data-i18n="tehsil_label">Select Your Tehsil</label>
+                <select id="tehsil" onchange="applyTehsilPreset()">
+                    <option value="">-- Select Tehsil --</option>
+                    <option value="Indore">Indore</option>
+                    <option value="Sanwer">Sanwer</option>
+                    <option value="Depalpur">Depalpur</option>
+                    <option value="Mhow">Mhow (Dr. Ambedkar Nagar)</option>
+                    <option value="Hatod">Hatod</option>
+                </select>
+            </div>
+
+            <!-- Soil Sliders -->
+            <div class="sliders-grid">
+                <div class="slider-item">
+                    <label>Nitrogen (N) <span id="n-val" class="val-badge">50</span></label>
+                    <input type="range" id="slider-N" min="0" max="140" value="50" oninput="updateSlider('N', this.value)">
+                </div>
+                <div class="slider-item">
+                    <label>Phosphorus (P) <span id="p-val" class="val-badge">30</span></label>
+                    <input type="range" id="slider-P" min="0" max="100" value="30" oninput="updateSlider('P', this.value)">
+                </div>
+                <div class="slider-item">
+                    <label>Potassium (K) <span id="k-val" class="val-badge">200</span></label>
+                    <input type="range" id="slider-K" min="0" max="500" value="200" oninput="updateSlider('K', this.value)">
+                </div>
+                <div class="slider-item">
+                    <label>Soil pH <span id="ph-val" class="val-badge">7.5</span></label>
+                    <input type="range" id="slider-ph" min="4" max="10" step="0.1" value="7.5" oninput="updateSlider('ph', this.value)">
+                </div>
+                <div class="slider-item">
+                    <label>Temperature (°C) <span id="temp-val" class="val-badge">28</span></label>
+                    <input type="range" id="slider-temperature" min="10" max="50" value="28" oninput="updateSlider('temperature', this.value)">
+                </div>
+                <div class="slider-item">
+                    <label>Humidity (%) <span id="humidity-val" class="val-badge">70</span></label>
+                    <input type="range" id="slider-humidity" min="10" max="100" value="70" oninput="updateSlider('humidity', this.value)">
+                </div>
+                <div class="slider-item full-width">
+                    <label>Rainfall (mm/year) <span id="rainfall-val" class="val-badge">850</span></label>
+                    <input type="range" id="slider-rainfall" min="0" max="1500" value="850" oninput="updateSlider('rainfall', this.value)">
+                </div>
+            </div>
+
+            <!-- Farmer Info (optional) -->
+            <div class="farmer-info">
+                <input type="text" id="farmer-name" placeholder="Farmer Name (optional)">
+                <input type="text" id="farmer-village" placeholder="Village (optional)">
+            </div>
+
+            <!-- Submit Button -->
+            <button id="submit-btn" class="btn-primary" onclick="getRecommendation()">
+                <span data-i18n="recommend_btn">Get Crop Recommendation</span>
+            </button>
+        </section>
+
+        <!-- Right Panel: Results -->
+        <section class="card results-card">
+            <!-- Loading Spinner (shown while waiting for AI) -->
+            <div id="loading" class="loading hidden">
+                <div class="spinner"></div>
+                <p data-i18n="loading_text">Consulting AI model...</p>
+            </div>
+
+            <!-- Empty State (shown before any recommendation) -->
+            <div id="empty-state" class="empty-state">
+                <div class="empty-icon">🌱</div>
+                <h3 data-i18n="empty_title">Ready to Recommend</h3>
+                <p data-i18n="empty_desc">Fill in your soil details on the left and click "Get Recommendation"</p>
+            </div>
+
+            <!-- Result Cards (shown after AI responds) -->
+            <div id="result-area" class="hidden">
+                <h2 class="card-title" data-i18n="result_title">AI Recommendation</h2>
+
+                <!-- Primary Crop -->
+                <div class="primary-crop-card" id="primary-crop-card">
+                    <div class="crop-rank">🏆 Best Crop</div>
+                    <div class="crop-name" id="primary-crop-name">-</div>
+                    <div class="crop-confidence">
+                        <span data-i18n="confidence_label">Confidence:</span>
+                        <span id="primary-confidence" class="confidence-badge">-</span>
+                    </div>
+                    <div class="confidence-bar">
+                        <div class="confidence-fill" id="confidence-fill"></div>
+                    </div>
+                </div>
+
+                <!-- Alternative Crops -->
+                <div class="alt-crops" id="alt-crops-section">
+                    <p class="alt-label" data-i18n="alt_label">Also Consider:</p>
+                    <div id="alt-crops-list" class="alt-list"></div>
+                </div>
+
+                <!-- Fertilizer Plan -->
+                <div class="fertilizer-section">
+                    <h3 data-i18n="fert_title">Fertilizer Plan (per acre)</h3>
+                    <div class="fert-grid" id="fert-grid"></div>
+                    <p class="fert-note" id="fert-remarks"></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- ====== HISTORY DRAWER ====== -->
+    <div class="history-fab" onclick="toggleHistory()" title="View History">📋</div>
+
+    <div id="history-drawer" class="history-drawer hidden">
+        <div class="history-header">
+            <h3>Past Consultations</h3>
+            <button onclick="toggleHistory()">✕</button>
+        </div>
+        <div id="history-list" class="history-list">
+            <p class="loading-text">Loading history...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

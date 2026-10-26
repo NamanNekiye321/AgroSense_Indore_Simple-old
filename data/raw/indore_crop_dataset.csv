@@ -1,0 +1,1301 @@
+district,tehsil,season,N,P,K,temperature,humidity,ph,rainfall,crop
+Indore,Hatod,Rabi,72.18,35.73,352.7,21.22,47.17,7.55,29.07,Wheat
+Indore,Indore,Kharif,21.52,40.0,221.92,31.38,74.3,7.93,926.31,Soybean
+Indore,Sanwer,Rabi,31.44,20.21,295.1,20.8,49.93,7.35,42.23,Onion
+Indore,Hatod,Rabi,65.61,37.01,161.11,22.83,43.36,7.49,27.46,Wheat
+Indore,Sanwer,Kharif,53.65,25.12,430.66,26.75,71.73,7.85,915.27,Maize (Corn)
+Indore,Sanwer,Kharif,57.28,28.13,166.12,27.91,73.33,7.88,909.26,Maize (Corn)
+Indore,Depalpur,Rabi,38.27,35.98,347.01,20.7,51.34,7.75,45.05,Gram (Chickpea)
+Indore,Indore,Rabi,32.19,33.85,162.98,21.67,52.1,7.25,31.97,Onion
+Indore,Mhow,Rabi,23.9,16.72,299.15,19.49,55.55,7.85,35.13,Onion
+Indore,Depalpur,Rabi,87.87,11.05,384.6,18.61,46.6,7.58,36.32,Onion
+Indore,Depalpur,Kharif,34.37,40.0,201.58,29.23,77.1,7.67,848.69,Soybean
+Indore,Mhow,Rabi,97.21,40.0,322.63,20.84,47.57,7.62,50.68,Wheat
+Indore,Indore,Kharif,66.05,32.69,160.15,29.34,76.96,7.78,867.96,Maize (Corn)
+Indore,Indore,Kharif,87.77,24.67,248.04,28.73,78.18,7.36,924.78,Maize (Corn)
+Indore,Mhow,Kharif,42.52,40.0,249.61,28.88,83.69,7.28,992.11,Soybean
+Indore,Mhow,Kharif,38.92,40.0,167.35,26.91,84.85,7.65,1019.3,Soybean
+Indore,Mhow,Kharif,50.49,40.0,223.29,29.43,78.16,7.56,930.98,Soybean
+Indore,Sanwer,Kharif,47.06,40.0,407.07,29.58,70.67,7.33,813.8,Soybean
+Indore,Hatod,Rabi,20.18,40.0,243.96,21.83,51.71,7.49,18.55,Gram (Chickpea)
+Indore,Sanwer,Kharif,57.87,40.0,219.83,28.46,76.6,7.34,857.21,Soybean
+Indore,Depalpur,Rabi,64.86,20.5,192.6,19.42,48.55,7.74,35.63,Onion
+Indore,Sanwer,Kharif,28.18,40.0,285.04,28.8,77.8,7.93,837.3,Soybean
+Indore,Mhow,Kharif,48.54,40.0,176.45,27.43,83.84,7.69,980.65,Soybean
+Indore,Mhow,Rabi,27.54,35.07,308.98,20.58,53.74,7.36,50.54,Gram (Chickpea)
+Indore,Indore,Rabi,44.41,35.82,406.25,20.68,51.41,7.46,34.28,Onion
+Indore,Indore,Rabi,87.94,40.0,328.57,20.0,49.74,7.95,27.4,Wheat
+Indore,Depalpur,Kharif,54.14,35.12,203.11,27.63,73.61,7.88,955.11,Maize (Corn)
+Indore,Depalpur,Rabi,84.7,40.0,271.79,20.58,53.36,7.63,27.43,Wheat
+Indore,Depalpur,Kharif,47.78,40.0,244.15,27.69,68.83,7.47,921.66,Soybean
+Indore,Mhow,Kharif,49.84,40.0,381.19,28.42,78.23,7.88,944.02,Soybean
+Indore,Hatod,Rabi,75.99,39.18,336.4,19.91,56.9,7.71,30.51,Wheat
+Indore,Mhow,Rabi,39.89,36.24,179.55,17.99,57.33,7.7,52.6,Gram (Chickpea)
+Indore,Hatod,Rabi,30.26,36.51,315.76,20.36,51.04,7.57,23.14,Gram (Chickpea)
+Indore,Hatod,Rabi,65.3,30.98,244.9,20.16,47.09,7.72,43.91,Onion
+Indore,Indore,Rabi,82.13,37.81,209.22,21.2,56.73,8.11,43.71,Wheat
+Indore,Indore,Kharif,43.11,40.0,312.95,26.82,76.43,7.53,903.39,Soybean
+Indore,Mhow,Rabi,35.62,39.38,186.56,18.1,52.07,7.37,56.39,Onion
+Indore,Depalpur,Rabi,73.65,35.52,172.33,19.27,53.34,7.91,40.63,Wheat
+Indore,Sanwer,Kharif,85.01,23.1,334.58,27.5,73.42,7.75,952.48,Maize (Corn)
+Indore,Sanwer,Rabi,98.18,36.84,157.28,18.87,47.05,8.18,23.76,Wheat
+Indore,Depalpur,Rabi,26.85,11.85,189.56,18.56,53.64,7.77,23.53,Onion
+Indore,Mhow,Rabi,47.66,37.24,253.18,18.58,56.82,7.57,31.5,Gram (Chickpea)
+Indore,Sanwer,Kharif,36.82,40.0,408.67,28.38,73.94,7.94,876.77,Soybean
+Indore,Indore,Kharif,94.27,14.73,176.84,27.33,76.16,7.6,830.94,Maize (Corn)
+Indore,Depalpur,Rabi,47.8,19.95,285.4,20.72,47.76,7.61,42.98,Onion
+Indore,Mhow,Kharif,80.23,16.82,432.96,27.9,78.37,7.26,1049.64,Maize (Corn)
+Indore,Mhow,Rabi,59.44,39.15,200.53,17.49,53.26,8.08,30.51,Wheat
+Indore,Mhow,Rabi,97.37,38.71,419.79,20.69,52.78,8.17,45.3,Wheat
+Indore,Depalpur,Kharif,50.86,40.0,395.97,28.39,74.07,7.26,832.46,Soybean
+Indore,Hatod,Kharif,43.57,40.0,286.98,28.49,70.83,7.93,844.93,Soybean
+Indore,Sanwer,Rabi,31.26,37.05,429.8,21.91,49.71,7.47,37.17,Gram (Chickpea)
+Indore,Hatod,Rabi,87.91,37.2,374.66,20.26,45.56,7.4,31.27,Wheat
+Indore,Mhow,Kharif,31.18,40.0,382.38,28.42,77.53,7.38,903.55,Soybean
+Indore,Mhow,Rabi,70.72,22.46,263.57,18.43,55.86,7.65,44.68,Onion
+Indore,Sanwer,Rabi,67.58,40.0,196.39,20.41,49.53,7.38,31.53,Wheat
+Indore,Hatod,Rabi,80.22,31.93,174.09,20.88,45.83,7.6,36.58,Onion
+Indore,Sanwer,Rabi,76.64,38.73,285.47,18.1,45.49,7.49,33.26,Wheat
+Indore,Sanwer,Rabi,48.74,13.21,351.18,16.7,51.01,7.45,29.82,Onion
+Indore,Hatod,Rabi,38.74,36.0,157.93,21.23,52.69,7.42,31.45,Gram (Chickpea)
+Indore,Depalpur,Kharif,62.51,28.73,302.38,29.16,68.81,7.72,940.02,Maize (Corn)
+Indore,Mhow,Rabi,39.97,35.6,414.19,18.44,50.74,7.74,52.47,Gram (Chickpea)
+Indore,Hatod,Kharif,74.77,12.19,394.2,28.58,71.99,7.86,842.4,Maize (Corn)
+Indore,Sanwer,Rabi,36.7,22.01,411.54,19.23,53.32,7.99,23.68,Onion
+Indore,Indore,Rabi,64.89,39.3,190.17,20.95,46.62,7.46,46.67,Wheat
+Indore,Depalpur,Rabi,25.05,37.05,354.59,20.49,54.54,8.02,41.33,Gram (Chickpea)
+Indore,Sanwer,Kharif,45.77,40.0,242.6,28.61,76.76,7.74,836.89,Soybean
+Indore,Depalpur,Rabi,85.26,35.03,446.93,19.4,47.71,7.75,37.35,Wheat
+Indore,Depalpur,Rabi,71.77,25.66,177.86,19.8,52.88,7.9,35.36,Onion
+Indore,Depalpur,Kharif,53.27,40.0,324.58,29.01,74.83,7.69,821.51,Soybean
+Indore,Indore,Rabi,70.83,36.26,431.76,18.72,52.08,7.95,37.93,Wheat
+Indore,Hatod,Kharif,90.99,17.31,403.36,26.2,76.05,7.46,811.68,Maize (Corn)
+Indore,Sanwer,Kharif,83.97,10.82,392.82,28.3,68.52,7.82,911.71,Maize (Corn)
+Indore,Indore,Kharif,33.13,40.0,246.1,28.02,69.73,7.55,900.98,Soybean
+Indore,Depalpur,Rabi,70.39,40.0,153.9,20.54,57.29,8.11,36.63,Wheat
+Indore,Sanwer,Rabi,32.17,28.65,316.32,19.36,51.92,7.97,32.98,Onion
+Indore,Mhow,Kharif,54.0,40.0,272.05,26.71,75.24,7.61,979.84,Soybean
+Indore,Indore,Rabi,28.82,21.66,335.75,18.75,54.23,7.41,32.9,Onion
+Indore,Indore,Rabi,47.54,35.57,348.31,18.59,54.51,7.4,48.39,Gram (Chickpea)
+Indore,Indore,Rabi,48.91,38.28,194.1,18.39,52.47,7.84,32.33,Gram (Chickpea)
+Indore,Sanwer,Kharif,49.6,19.46,374.07,28.75,81.16,7.49,896.65,Maize (Corn)
+Indore,Sanwer,Rabi,91.22,39.41,445.01,20.41,50.93,7.7,32.98,Wheat
+Indore,Hatod,Rabi,44.07,12.37,229.68,20.88,51.62,7.21,24.8,Onion
+Indore,Indore,Kharif,71.96,33.77,387.65,27.66,77.9,7.84,999.69,Maize (Corn)
+Indore,Sanwer,Rabi,82.64,36.86,269.71,19.74,44.77,8.03,34.99,Wheat
+Indore,Sanwer,Rabi,28.51,36.79,268.24,18.47,54.83,7.2,33.82,Gram (Chickpea)
+Indore,Hatod,Kharif,22.96,40.0,272.31,30.45,73.6,7.81,832.47,Soybean
+Indore,Sanwer,Rabi,81.39,26.11,325.17,18.1,55.06,7.41,39.05,Onion
+Indore,Indore,Rabi,46.56,39.32,309.18,19.34,51.42,7.41,19.27,Gram (Chickpea)
+Indore,Depalpur,Kharif,22.84,40.0,152.09,28.61,77.34,7.2,759.4,Soybean
+Indore,Mhow,Kharif,90.47,20.16,308.21,26.29,81.84,7.26,985.62,Maize (Corn)
+Indore,Sanwer,Kharif,81.91,29.05,436.14,28.21,75.59,7.63,862.21,Maize (Corn)
+Indore,Hatod,Rabi,34.15,23.43,388.32,21.2,50.14,7.49,40.32,Onion
+Indore,Sanwer,Rabi,31.96,32.0,195.96,20.68,57.01,7.64,25.11,Onion
+Indore,Sanwer,Rabi,37.5,37.67,385.88,19.85,50.5,7.5,35.63,Gram (Chickpea)
+Indore,Hatod,Rabi,58.01,35.16,392.74,19.59,50.46,8.17,43.42,Wheat
+Indore,Indore,Rabi,70.68,11.43,358.27,21.0,50.71,7.28,41.23,Onion
+Indore,Depalpur,Rabi,22.5,35.08,342.13,19.19,49.82,7.57,38.06,Gram (Chickpea)
+Indore,Hatod,Rabi,59.47,39.01,213.53,20.22,50.29,7.44,35.92,Wheat
+Indore,Mhow,Kharif,45.89,15.0,150.0,28.47,76.81,7.33,1005.97,Maize (Corn)
+Indore,Mhow,Rabi,24.48,37.36,317.98,18.11,53.28,8.03,46.29,Gram (Chickpea)
+Indore,Depalpur,Rabi,88.47,35.37,344.6,20.23,52.67,8.19,39.32,Wheat
+Indore,Hatod,Kharif,33.41,40.0,281.93,27.99,65.22,7.6,846.09,Soybean
+Indore,Indore,Rabi,43.92,28.07,192.14,19.39,53.47,7.21,43.49,Onion
+Indore,Sanwer,Rabi,22.51,35.22,445.98,18.9,54.16,7.37,47.3,Gram (Chickpea)
+Indore,Hatod,Rabi,95.04,40.0,366.53,22.68,44.9,7.29,27.47,Wheat
+Indore,Sanwer,Rabi,46.2,30.1,264.62,19.24,52.43,7.31,38.35,Onion
+Indore,Hatod,Kharif,91.05,14.88,334.38,27.33,69.69,7.58,802.94,Maize (Corn)
+Indore,Mhow,Rabi,56.16,36.09,271.56,19.92,57.74,7.5,42.53,Wheat
+Indore,Depalpur,Kharif,20.0,40.0,179.85,30.22,72.37,7.62,835.05,Soybean
+Indore,Indore,Kharif,32.26,40.0,205.94,29.93,80.82,7.86,959.32,Soybean
+Indore,Indore,Kharif,59.09,40.0,200.15,29.57,76.78,7.67,885.35,Soybean
+Indore,Sanwer,Rabi,60.64,36.44,253.03,18.89,50.74,7.77,20.36,Wheat
+Indore,Hatod,Rabi,50.64,15.79,336.3,21.33,48.3,7.9,30.31,Onion
+Indore,Sanwer,Rabi,25.86,35.6,319.41,22.08,48.58,7.69,33.19,Gram (Chickpea)
+Indore,Indore,Kharif,23.51,40.0,251.48,30.21,73.58,7.65,893.63,Soybean
+Indore,Depalpur,Kharif,31.78,40.0,346.88,27.24,71.37,7.75,924.64,Soybean
+Indore,Depalpur,Rabi,37.09,38.97,320.1,20.42,50.42,8.12,47.22,Gram (Chickpea)
+Indore,Sanwer,Rabi,88.86,36.54,361.26,18.97,51.77,8.03,40.87,Wheat
+Indore,Depalpur,Kharif,82.03,28.01,361.7,26.27,73.7,7.42,835.51,Maize (Corn)
+Indore,Sanwer,Kharif,81.55,31.87,328.75,28.29,71.71,7.34,823.54,Maize (Corn)
+Indore,Hatod,Rabi,65.21,40.0,231.6,22.04,51.88,7.28,47.23,Wheat
+Indore,Depalpur,Rabi,97.34,35.69,311.62,19.05,51.22,7.77,48.69,Wheat
+Indore,Depalpur,Rabi,86.92,36.01,360.44,20.93,52.02,7.55,47.17,Wheat
+Indore,Hatod,Rabi,84.26,19.59,292.75,20.13,48.5,7.68,30.25,Onion
+Indore,Sanwer,Rabi,68.7,18.59,150.0,18.88,47.92,7.2,20.75,Onion
+Indore,Mhow,Rabi,80.71,20.31,443.37,18.59,49.99,7.25,45.19,Onion
+Indore,Indore,Kharif,27.34,40.0,354.63,29.52,81.77,7.74,864.86,Soybean
+Indore,Mhow,Rabi,30.06,40.0,179.36,17.74,55.5,7.22,42.24,Gram (Chickpea)
+Indore,Hatod,Rabi,24.12,38.99,204.01,18.31,49.26,7.22,34.14,Gram (Chickpea)
+Indore,Depalpur,Kharif,43.53,40.0,290.41,28.54,76.54,7.35,887.88,Soybean
+Indore,Indore,Rabi,61.3,32.19,171.49,19.03,49.55,7.49,29.47,Onion
+Indore,Sanwer,Rabi,25.46,36.11,168.0,18.66,51.49,7.88,30.49,Gram (Chickpea)
+Indore,Sanwer,Rabi,66.27,37.51,188.6,20.38,45.2,8.1,37.21,Wheat
+Indore,Depalpur,Rabi,35.95,36.09,436.15,20.13,51.11,8.16,26.37,Gram (Chickpea)
+Indore,Sanwer,Rabi,30.86,37.42,253.34,18.63,54.09,7.2,37.74,Gram (Chickpea)
+Indore,Depalpur,Rabi,88.72,39.46,244.48,21.33,46.12,7.39,25.17,Wheat
+Indore,Mhow,Rabi,29.07,35.29,314.53,18.37,51.13,7.33,51.74,Gram (Chickpea)
+Indore,Depalpur,Rabi,33.48,35.18,219.63,17.31,53.31,7.64,30.05,Gram (Chickpea)
+Indore,Mhow,Kharif,60.1,37.7,248.79,30.23,74.76,7.71,964.26,Maize (Corn)
+Indore,Hatod,Rabi,35.54,36.29,183.14,19.04,51.12,8.09,28.14,Gram (Chickpea)
+Indore,Mhow,Kharif,72.08,19.39,229.12,29.13,83.51,7.3,915.05,Maize (Corn)
+Indore,Hatod,Rabi,27.71,29.57,409.27,21.9,45.41,7.73,37.15,Onion
+Indore,Indore,Kharif,71.23,19.5,275.72,27.27,80.13,7.76,930.97,Maize (Corn)
+Indore,Depalpur,Kharif,92.37,31.84,216.98,28.44,74.01,7.58,830.98,Maize (Corn)
+Indore,Depalpur,Rabi,34.81,37.86,255.02,19.61,50.63,7.89,46.31,Gram (Chickpea)
+Indore,Hatod,Kharif,81.78,29.18,390.38,28.81,74.37,7.65,895.64,Maize (Corn)
+Indore,Mhow,Kharif,99.3,12.53,273.52,29.19,80.06,7.62,1045.55,Maize (Corn)
+Indore,Mhow,Rabi,52.33,40.0,423.31,19.59,56.73,7.43,40.97,Onion
+Indore,Sanwer,Rabi,85.56,22.79,328.96,19.59,49.17,7.44,42.33,Onion
+Indore,Mhow,Rabi,27.6,35.27,301.64,16.98,50.67,7.92,42.15,Gram (Chickpea)
+Indore,Mhow,Kharif,23.52,40.0,158.66,28.73,75.58,7.66,994.5,Soybean
+Indore,Sanwer,Kharif,63.08,28.27,371.96,30.39,73.08,7.62,878.07,Maize (Corn)
+Indore,Depalpur,Rabi,23.99,32.17,256.42,20.41,54.59,7.2,22.85,Onion
+Indore,Depalpur,Rabi,33.89,37.06,248.23,19.81,49.13,8.18,28.11,Gram (Chickpea)
+Indore,Hatod,Kharif,85.69,34.66,274.4,27.11,71.71,7.68,888.71,Maize (Corn)
+Indore,Depalpur,Rabi,33.28,37.47,353.37,20.63,50.05,8.11,26.99,Gram (Chickpea)
+Indore,Depalpur,Kharif,64.82,26.66,433.66,28.47,69.43,7.39,873.98,Maize (Corn)
+Indore,Sanwer,Rabi,92.52,37.62,263.28,18.82,46.99,8.11,38.41,Wheat
+Indore,Mhow,Rabi,76.86,37.09,257.24,18.04,50.67,8.13,48.28,Wheat
+Indore,Indore,Rabi,67.46,40.0,446.28,20.76,53.93,7.54,25.61,Wheat
+Indore,Hatod,Kharif,64.79,36.54,172.07,25.07,72.46,7.77,947.66,Maize (Corn)
+Indore,Sanwer,Kharif,93.25,11.78,316.88,28.47,71.83,7.76,918.05,Maize (Corn)
+Indore,Indore,Rabi,46.13,31.42,182.09,21.57,53.47,7.54,36.17,Onion
+Indore,Hatod,Kharif,57.37,28.62,167.22,26.93,72.04,7.65,932.59,Maize (Corn)
+Indore,Hatod,Kharif,25.78,40.0,370.12,28.57,77.62,7.38,846.75,Soybean
+Indore,Sanwer,Rabi,78.04,35.78,268.66,19.39,48.37,8.2,40.19,Wheat
+Indore,Mhow,Rabi,87.68,36.96,313.58,19.54,55.98,7.44,48.92,Wheat
+Indore,Sanwer,Rabi,71.52,28.54,368.73,19.84,50.44,7.56,24.95,Onion
+Indore,Mhow,Kharif,28.35,40.0,219.68,26.54,81.03,7.41,1034.54,Soybean
+Indore,Sanwer,Rabi,71.0,21.31,186.93,16.74,54.11,7.8,23.31,Onion
+Indore,Hatod,Kharif,57.86,25.03,153.73,27.21,70.46,7.21,926.23,Maize (Corn)
+Indore,Indore,Rabi,58.12,36.45,285.24,19.11,52.46,7.79,25.59,Wheat
+Indore,Hatod,Rabi,84.41,16.3,288.96,20.75,49.5,7.71,39.3,Onion
+Indore,Sanwer,Kharif,76.54,38.35,155.44,25.06,77.05,7.37,895.68,Maize (Corn)
+Indore,Mhow,Rabi,82.96,15.46,222.18,20.06,57.98,7.3,52.99,Onion
+Indore,Hatod,Rabi,64.26,40.0,246.06,20.64,48.67,7.7,11.77,Wheat
+Indore,Hatod,Rabi,29.46,39.44,369.2,19.93,42.69,7.56,31.1,Gram (Chickpea)
+Indore,Depalpur,Kharif,57.36,40.0,297.34,31.11,82.64,7.72,922.49,Soybean
+Indore,Hatod,Kharif,50.6,40.0,445.53,27.84,73.96,7.68,922.67,Soybean
+Indore,Indore,Rabi,43.52,19.84,200.78,20.75,51.11,7.53,36.03,Onion
+Indore,Sanwer,Kharif,72.96,31.79,311.82,25.81,74.73,7.65,989.48,Maize (Corn)
+Indore,Indore,Rabi,76.61,10.0,250.96,20.5,56.24,7.27,41.58,Onion
+Indore,Indore,Rabi,93.7,31.68,300.29,19.83,45.77,7.46,35.44,Onion
+Indore,Indore,Rabi,37.24,40.0,378.8,21.49,54.68,7.81,38.68,Gram (Chickpea)
+Indore,Hatod,Kharif,96.21,22.35,390.1,28.11,70.74,7.69,829.97,Maize (Corn)
+Indore,Sanwer,Rabi,36.47,34.76,229.86,17.85,52.07,7.44,27.98,Onion
+Indore,Mhow,Rabi,39.49,35.78,219.77,21.06,54.02,7.24,29.72,Gram (Chickpea)
+Indore,Indore,Rabi,38.51,35.01,284.69,20.64,51.26,8.01,52.61,Gram (Chickpea)
+Indore,Indore,Kharif,61.4,23.19,259.15,27.75,74.7,7.83,952.95,Maize (Corn)
+Indore,Indore,Kharif,99.62,21.57,447.42,27.85,83.45,7.5,862.88,Maize (Corn)
+Indore,Hatod,Rabi,55.13,21.11,374.03,19.54,48.88,7.46,34.45,Onion
+Indore,Indore,Kharif,89.57,16.49,343.97,27.34,81.24,7.56,962.43,Maize (Corn)
+Indore,Sanwer,Rabi,94.06,35.64,270.71,22.0,45.9,7.57,39.1,Wheat
+Indore,Sanwer,Kharif,59.02,40.0,438.05,27.45,76.39,7.34,911.05,Soybean
+Indore,Sanwer,Rabi,35.39,38.29,270.36,20.56,51.38,7.36,37.21,Gram (Chickpea)
+Indore,Hatod,Kharif,89.3,31.37,393.88,30.02,72.42,7.68,936.22,Maize (Corn)
+Indore,Sanwer,Kharif,27.94,40.0,449.39,28.05,74.22,7.9,862.33,Soybean
+Indore,Indore,Kharif,71.35,26.91,409.17,27.9,77.48,7.43,952.16,Maize (Corn)
+Indore,Indore,Rabi,33.63,18.83,171.03,21.43,51.29,7.69,37.04,Onion
+Indore,Sanwer,Rabi,31.08,36.36,413.96,17.38,46.93,7.83,29.76,Onion
+Indore,Indore,Rabi,66.58,37.43,398.99,17.85,48.11,8.0,44.1,Wheat
+Indore,Indore,Rabi,94.98,36.34,421.45,19.48,50.67,7.73,29.92,Wheat
+Indore,Sanwer,Kharif,87.45,26.39,177.14,28.65,77.35,7.39,878.68,Maize (Corn)
+Indore,Sanwer,Rabi,34.15,35.45,430.22,19.2,50.21,7.48,18.03,Onion
+Indore,Hatod,Rabi,37.84,36.87,221.4,19.19,51.94,7.36,27.5,Gram (Chickpea)
+Indore,Sanwer,Rabi,28.76,36.04,172.46,18.58,44.9,7.92,15.02,Gram (Chickpea)
+Indore,Sanwer,Kharif,59.0,34.35,307.97,26.62,77.86,7.84,966.01,Maize (Corn)
+Indore,Mhow,Rabi,76.56,37.18,431.77,17.93,54.0,7.46,22.47,Wheat
+Indore,Mhow,Rabi,85.42,35.53,358.81,20.77,54.9,7.25,46.66,Wheat
+Indore,Indore,Kharif,56.44,11.36,315.86,29.58,81.82,7.29,949.32,Maize (Corn)
+Indore,Mhow,Kharif,71.35,23.59,374.69,27.24,80.48,7.45,982.58,Maize (Corn)
+Indore,Indore,Rabi,86.04,40.0,330.94,20.55,57.34,7.89,42.53,Wheat
+Indore,Sanwer,Kharif,92.54,10.0,425.82,29.51,71.23,7.73,948.01,Maize (Corn)
+Indore,Indore,Rabi,49.95,31.51,217.75,19.56,52.7,7.25,47.17,Onion
+Indore,Hatod,Rabi,91.9,38.73,345.89,20.92,48.75,7.34,31.5,Wheat
+Indore,Depalpur,Kharif,34.92,40.0,281.31,25.89,72.09,7.76,856.08,Soybean
+Indore,Indore,Rabi,48.3,35.64,381.08,20.95,50.9,7.94,44.06,Gram (Chickpea)
+Indore,Indore,Kharif,82.81,28.74,241.74,29.64,79.58,7.6,911.41,Maize (Corn)
+Indore,Sanwer,Rabi,100.0,32.97,321.23,18.02,50.91,7.62,25.97,Onion
+Indore,Indore,Rabi,42.83,38.56,321.6,21.25,47.6,7.2,31.25,Gram (Chickpea)
+Indore,Depalpur,Rabi,93.89,37.57,427.78,22.83,51.6,7.25,49.27,Wheat
+Indore,Indore,Rabi,20.0,37.48,425.62,19.63,45.21,7.37,45.46,Gram (Chickpea)
+Indore,Depalpur,Kharif,91.65,12.59,437.53,30.04,72.56,7.2,847.53,Maize (Corn)
+Indore,Indore,Rabi,88.26,37.28,338.41,18.44,53.98,7.93,25.19,Wheat
+Indore,Depalpur,Rabi,64.17,14.3,171.69,19.22,48.57,7.87,36.6,Onion
+Indore,Indore,Kharif,95.73,26.18,275.64,25.51,76.03,7.35,940.41,Maize (Corn)
+Indore,Hatod,Kharif,41.32,40.0,228.82,28.84,74.75,7.92,865.48,Soybean
+Indore,Mhow,Rabi,90.04,21.74,179.93,19.47,49.51,7.47,32.17,Onion
+Indore,Indore,Rabi,91.14,28.59,172.5,19.44,51.01,7.97,43.85,Onion
+Indore,Depalpur,Kharif,38.24,40.0,348.12,26.25,72.77,7.66,932.75,Soybean
+Indore,Depalpur,Kharif,79.87,12.85,323.5,28.35,75.3,7.9,862.27,Maize (Corn)
+Indore,Depalpur,Kharif,95.83,15.21,345.95,29.79,72.81,7.83,928.08,Maize (Corn)
+Indore,Mhow,Rabi,22.8,40.0,379.61,19.07,56.62,7.2,31.79,Gram (Chickpea)
+Indore,Depalpur,Rabi,91.23,17.8,435.93,19.14,50.81,7.24,44.9,Onion
+Indore,Mhow,Kharif,36.39,40.0,448.72,29.57,77.15,7.47,957.45,Soybean
+Indore,Mhow,Rabi,49.52,39.04,277.54,17.82,52.47,8.0,50.29,Gram (Chickpea)
+Indore,Hatod,Kharif,59.25,40.0,445.64,25.68,66.99,7.71,813.21,Soybean
+Indore,Indore,Kharif,49.78,37.53,439.4,27.5,82.27,7.66,915.87,Maize (Corn)
+Indore,Hatod,Rabi,26.03,22.64,367.93,22.63,46.37,7.21,26.98,Onion
+Indore,Indore,Kharif,56.84,31.76,305.49,28.76,81.03,7.69,881.98,Maize (Corn)
+Indore,Indore,Rabi,35.3,35.14,238.31,19.62,55.28,8.2,33.89,Gram (Chickpea)
+Indore,Depalpur,Kharif,48.04,29.24,317.18,30.06,69.77,7.61,811.03,Maize (Corn)
+Indore,Depalpur,Rabi,81.64,38.07,423.28,20.18,58.56,7.8,33.04,Wheat
+Indore,Depalpur,Kharif,54.92,31.16,245.86,26.61,72.67,7.29,884.99,Maize (Corn)
+Indore,Sanwer,Rabi,49.24,23.76,213.71,19.75,52.08,7.78,15.78,Onion
+Indore,Depalpur,Rabi,86.53,31.17,305.61,19.1,50.82,7.66,38.57,Onion
+Indore,Indore,Rabi,66.08,38.59,208.15,19.15,55.73,8.15,33.43,Wheat
+Indore,Sanwer,Rabi,42.71,37.64,171.81,16.99,49.32,7.88,34.13,Gram (Chickpea)
+Indore,Sanwer,Rabi,97.45,38.28,304.38,21.9,46.98,7.7,29.28,Wheat
+Indore,Sanwer,Kharif,85.23,19.87,274.99,29.65,73.1,7.26,940.8,Maize (Corn)
+Indore,Indore,Kharif,46.74,40.0,256.21,27.76,79.15,7.61,860.68,Soybean
+Indore,Depalpur,Rabi,39.19,35.59,283.84,21.14,52.8,7.77,45.38,Gram (Chickpea)
+Indore,Indore,Kharif,60.75,36.79,331.44,28.79,77.19,7.88,850.54,Maize (Corn)
+Indore,Hatod,Rabi,49.97,40.0,298.96,19.67,51.86,7.63,34.93,Gram (Chickpea)
+Indore,Indore,Rabi,46.44,35.28,323.35,15.97,49.33,7.62,28.42,Gram (Chickpea)
+Indore,Depalpur,Rabi,23.65,35.62,187.2,21.42,49.24,7.81,34.38,Gram (Chickpea)
+Indore,Hatod,Rabi,42.7,38.42,171.2,20.25,45.55,8.1,36.43,Gram (Chickpea)
+Indore,Sanwer,Kharif,41.31,40.0,406.14,25.68,78.8,7.63,880.96,Soybean
+Indore,Hatod,Kharif,39.68,40.0,315.42,32.92,72.15,7.73,824.55,Soybean
+Indore,Mhow,Kharif,62.89,10.23,269.22,27.72,87.05,7.83,1002.75,Maize (Corn)
+Indore,Sanwer,Rabi,44.73,37.05,212.42,19.48,48.9,7.48,36.26,Gram (Chickpea)
+Indore,Sanwer,Rabi,96.44,19.39,236.47,20.58,52.61,7.87,28.36,Onion
+Indore,Indore,Kharif,47.04,40.0,280.52,28.71,75.08,7.2,895.94,Soybean
+Indore,Hatod,Rabi,75.36,37.09,399.11,21.15,48.81,7.98,41.7,Wheat
+Indore,Hatod,Kharif,86.94,18.58,311.3,28.88,73.5,7.44,907.66,Maize (Corn)
+Indore,Depalpur,Rabi,27.72,14.82,259.34,21.95,49.34,7.26,32.97,Onion
+Indore,Indore,Rabi,71.46,35.62,285.32,18.13,52.74,8.0,37.94,Wheat
+Indore,Sanwer,Rabi,90.1,24.95,355.16,20.27,48.88,7.2,45.82,Onion
+Indore,Indore,Rabi,37.05,38.9,252.57,18.17,54.98,7.71,30.24,Gram (Chickpea)
+Indore,Indore,Rabi,96.33,16.32,317.72,22.53,49.44,7.69,42.14,Onion
+Indore,Indore,Kharif,44.36,40.0,381.35,29.16,77.9,7.83,967.4,Soybean
+Indore,Indore,Kharif,51.17,40.0,295.72,28.19,73.97,7.86,913.69,Soybean
+Indore,Mhow,Rabi,65.87,39.04,152.39,17.6,56.45,7.2,35.18,Wheat
+Indore,Mhow,Rabi,20.0,37.25,293.16,19.32,50.63,7.99,45.39,Gram (Chickpea)
+Indore,Indore,Kharif,26.44,40.0,267.21,28.53,71.95,7.3,974.23,Soybean
+Indore,Indore,Rabi,59.26,36.67,308.43,19.19,52.45,7.51,44.17,Wheat
+Indore,Indore,Rabi,75.77,17.03,295.29,17.41,48.64,7.48,45.44,Onion
+Indore,Sanwer,Rabi,55.67,26.62,424.77,20.66,55.05,7.77,28.33,Onion
+Indore,Indore,Kharif,55.69,35.7,385.04,28.33,81.5,7.62,943.89,Maize (Corn)
+Indore,Depalpur,Rabi,74.56,39.74,244.45,19.31,51.52,7.36,50.09,Wheat
+Indore,Hatod,Rabi,40.87,38.6,185.67,22.02,49.34,7.62,23.98,Gram (Chickpea)
+Indore,Depalpur,Rabi,28.74,36.32,346.44,18.97,49.42,7.69,46.76,Gram (Chickpea)
+Indore,Depalpur,Rabi,70.28,36.5,309.99,22.38,46.98,8.16,34.02,Wheat
+Indore,Mhow,Kharif,85.84,17.34,407.38,26.19,85.26,7.28,847.1,Maize (Corn)
+Indore,Indore,Kharif,39.87,40.0,327.79,28.47,78.54,7.2,904.25,Soybean
+Indore,Mhow,Rabi,48.77,37.26,274.73,19.36,49.63,7.55,38.14,Gram (Chickpea)
+Indore,Hatod,Kharif,57.26,36.17,221.62,28.98,67.15,7.62,777.73,Maize (Corn)
+Indore,Sanwer,Rabi,61.9,35.26,349.2,19.49,54.43,7.33,32.33,Wheat
+Indore,Depalpur,Rabi,43.79,14.94,225.26,20.66,47.49,7.71,26.09,Onion
+Indore,Hatod,Rabi,85.81,40.0,283.59,20.6,52.15,7.39,23.37,Wheat
+Indore,Depalpur,Kharif,67.13,33.52,190.57,27.53,76.78,7.49,882.57,Maize (Corn)
+Indore,Mhow,Rabi,78.41,38.65,433.89,17.91,54.69,7.28,28.85,Wheat
+Indore,Indore,Rabi,96.98,38.75,433.52,20.64,47.83,7.38,39.16,Wheat
+Indore,Indore,Rabi,20.0,37.83,327.86,21.02,54.68,8.2,22.33,Gram (Chickpea)
+Indore,Mhow,Rabi,35.46,40.0,439.52,20.23,58.45,7.64,50.88,Gram (Chickpea)
+Indore,Mhow,Rabi,25.92,38.58,197.27,17.48,54.24,8.1,42.42,Gram (Chickpea)
+Indore,Sanwer,Kharif,98.01,12.06,233.53,28.09,75.92,7.36,971.6,Maize (Corn)
+Indore,Depalpur,Rabi,34.4,38.25,245.39,21.21,52.67,7.49,21.43,Gram (Chickpea)
+Indore,Indore,Rabi,41.16,40.0,225.64,19.86,46.55,7.25,24.4,Gram (Chickpea)
+Indore,Depalpur,Kharif,28.94,40.0,343.17,29.45,75.58,7.73,806.94,Soybean
+Indore,Hatod,Rabi,76.41,40.0,154.57,21.75,45.61,7.74,21.0,Wheat
+Indore,Mhow,Kharif,72.52,30.29,321.66,26.86,82.08,7.46,942.36,Maize (Corn)
+Indore,Mhow,Kharif,54.1,18.52,286.1,27.1,77.8,7.71,1009.32,Maize (Corn)
+Indore,Mhow,Kharif,34.62,40.0,200.04,27.94,74.03,7.26,899.13,Soybean
+Indore,Hatod,Rabi,32.83,38.66,369.52,20.71,48.85,7.81,30.26,Onion
+Indore,Depalpur,Rabi,48.31,40.0,287.53,18.5,50.74,7.22,50.53,Gram (Chickpea)
+Indore,Depalpur,Kharif,75.75,40.0,293.98,28.25,77.75,7.5,832.46,Maize (Corn)
+Indore,Sanwer,Rabi,29.07,35.03,314.69,19.45,50.04,8.1,40.01,Gram (Chickpea)
+Indore,Depalpur,Rabi,80.84,21.06,352.22,18.86,46.94,7.52,22.82,Onion
+Indore,Indore,Rabi,44.63,40.0,380.08,19.36,47.9,7.46,32.44,Gram (Chickpea)
+Indore,Hatod,Rabi,99.16,35.13,222.85,20.31,47.76,7.74,30.66,Wheat
+Indore,Hatod,Rabi,91.47,21.95,404.37,18.45,47.1,7.38,34.77,Onion
+Indore,Depalpur,Rabi,87.01,38.16,337.95,18.47,48.99,8.1,31.65,Wheat
+Indore,Mhow,Rabi,30.31,35.57,337.0,19.68,47.89,7.55,58.34,Gram (Chickpea)
+Indore,Mhow,Rabi,27.5,40.0,280.36,21.69,54.95,7.38,46.04,Onion
+Indore,Sanwer,Rabi,73.68,39.76,376.7,19.46,49.81,7.56,23.04,Wheat
+Indore,Sanwer,Kharif,82.64,24.1,316.43,28.58,72.1,7.88,854.18,Maize (Corn)
+Indore,Depalpur,Rabi,55.74,35.89,311.22,19.97,53.85,7.88,42.99,Wheat
+Indore,Depalpur,Rabi,96.51,40.0,360.5,19.19,49.76,7.64,47.2,Wheat
+Indore,Depalpur,Kharif,45.42,40.0,411.12,28.14,69.59,7.73,895.08,Soybean
+Indore,Sanwer,Rabi,91.48,35.96,403.82,19.59,47.43,7.32,32.21,Wheat
+Indore,Indore,Rabi,32.86,38.95,416.7,20.78,47.1,7.38,25.39,Gram (Chickpea)
+Indore,Mhow,Rabi,47.59,35.11,226.72,19.23,57.9,7.87,49.82,Gram (Chickpea)
+Indore,Depalpur,Kharif,71.96,39.58,228.17,28.24,75.13,7.85,874.82,Maize (Corn)
+Indore,Mhow,Kharif,21.81,40.0,317.71,28.88,77.78,7.92,979.15,Soybean
+Indore,Sanwer,Kharif,44.36,40.0,187.07,29.38,75.05,7.84,871.7,Soybean
+Indore,Sanwer,Rabi,87.87,35.81,437.52,20.52,52.98,7.9,21.07,Wheat
+Indore,Mhow,Kharif,29.16,40.0,413.74,25.99,79.48,7.99,1009.04,Soybean
+Indore,Sanwer,Kharif,74.29,36.77,167.28,28.07,78.37,7.55,881.6,Maize (Corn)
+Indore,Sanwer,Rabi,94.92,38.36,366.22,17.87,43.92,8.08,41.52,Wheat
+Indore,Mhow,Rabi,40.93,36.74,171.91,18.96,51.49,7.92,42.63,Gram (Chickpea)
+Indore,Indore,Rabi,56.85,37.03,403.86,18.09,60.78,7.4,41.52,Wheat
+Indore,Sanwer,Rabi,27.27,18.59,375.63,21.9,51.29,7.27,21.79,Onion
+Indore,Sanwer,Kharif,93.77,33.27,230.49,27.45,76.2,7.67,888.31,Maize (Corn)
+Indore,Sanwer,Rabi,95.85,14.53,206.06,18.27,48.46,7.26,23.53,Onion
+Indore,Depalpur,Rabi,90.27,37.12,338.53,20.8,48.6,8.08,19.74,Wheat
+Indore,Sanwer,Rabi,32.31,35.03,439.96,17.35,47.86,7.92,34.69,Gram (Chickpea)
+Indore,Indore,Rabi,40.72,30.66,304.66,20.3,56.2,7.74,43.2,Onion
+Indore,Hatod,Rabi,80.96,21.75,262.77,20.29,43.93,7.88,21.04,Onion
+Indore,Hatod,Rabi,47.63,37.94,443.46,20.59,49.16,7.95,17.06,Gram (Chickpea)
+Indore,Mhow,Kharif,48.76,40.0,426.15,29.93,78.33,7.2,919.15,Soybean
+Indore,Indore,Kharif,28.64,40.0,234.06,30.06,74.12,7.66,871.5,Soybean
+Indore,Mhow,Kharif,46.35,40.0,405.52,25.63,81.54,7.52,969.2,Soybean
+Indore,Indore,Kharif,52.92,15.98,431.27,28.86,78.78,7.62,920.23,Maize (Corn)
+Indore,Hatod,Rabi,26.57,20.98,354.48,20.05,46.04,7.56,28.95,Onion
+Indore,Mhow,Rabi,65.91,36.0,326.84,19.78,55.39,7.93,41.73,Wheat
+Indore,Depalpur,Kharif,24.22,40.0,352.1,27.7,74.96,7.43,816.12,Soybean
+Indore,Sanwer,Kharif,54.78,40.0,185.97,29.05,75.29,7.75,851.35,Soybean
+Indore,Depalpur,Rabi,26.36,40.0,380.48,22.31,49.06,7.2,29.15,Gram (Chickpea)
+Indore,Depalpur,Kharif,33.95,40.0,347.12,28.96,75.72,7.39,902.8,Soybean
+Indore,Sanwer,Rabi,27.76,39.74,292.8,20.09,51.95,7.8,34.74,Gram (Chickpea)
+Indore,Mhow,Kharif,79.14,28.4,411.28,28.42,80.72,7.65,1016.39,Maize (Corn)
+Indore,Indore,Rabi,23.14,37.81,189.71,20.09,46.94,7.68,33.71,Gram (Chickpea)
+Indore,Sanwer,Rabi,24.58,39.31,313.5,20.28,50.03,7.87,30.1,Gram (Chickpea)
+Indore,Mhow,Kharif,56.46,40.0,384.29,29.84,81.8,7.55,907.55,Soybean
+Indore,Mhow,Rabi,41.96,35.26,161.31,18.11,60.03,8.09,35.67,Gram (Chickpea)
+Indore,Sanwer,Rabi,96.51,19.55,222.8,19.17,50.9,8.0,31.72,Onion
+Indore,Sanwer,Rabi,26.92,19.62,286.63,18.79,52.52,7.88,36.37,Onion
+Indore,Mhow,Rabi,63.02,36.12,440.72,19.92,54.64,7.37,43.91,Wheat
+Indore,Mhow,Kharif,37.38,40.0,329.66,27.22,82.43,7.77,930.58,Soybean
+Indore,Indore,Rabi,31.72,35.18,159.55,20.05,52.16,7.29,39.7,Gram (Chickpea)
+Indore,Depalpur,Rabi,20.35,38.52,252.79,19.35,51.66,7.65,23.42,Gram (Chickpea)
+Indore,Depalpur,Rabi,40.13,38.23,295.57,17.49,46.44,8.15,40.41,Gram (Chickpea)
+Indore,Sanwer,Kharif,30.21,40.0,317.63,28.36,80.27,7.71,849.6,Soybean
+Indore,Sanwer,Rabi,63.63,37.13,191.86,20.72,52.49,7.67,33.56,Wheat
+Indore,Mhow,Rabi,35.32,31.74,289.03,18.43,55.54,7.93,51.83,Onion
+Indore,Indore,Rabi,41.83,40.0,226.34,21.02,52.47,7.87,51.21,Gram (Chickpea)
+Indore,Sanwer,Rabi,44.62,37.05,364.37,19.87,50.35,7.7,35.08,Gram (Chickpea)
+Indore,Depalpur,Rabi,80.6,40.0,389.21,19.73,50.49,7.46,49.85,Wheat
+Indore,Sanwer,Kharif,54.93,40.0,273.89,28.49,73.07,7.46,837.4,Soybean
+Indore,Hatod,Kharif,85.23,22.77,313.6,29.83,69.32,7.2,896.88,Maize (Corn)
+Indore,Indore,Kharif,47.98,20.59,218.52,26.77,82.78,7.83,881.89,Maize (Corn)
+Indore,Hatod,Rabi,49.13,12.77,170.98,20.79,48.3,7.89,22.85,Onion
+Indore,Sanwer,Rabi,67.66,34.49,281.71,21.79,47.5,7.27,27.6,Onion
+Indore,Sanwer,Rabi,53.57,18.52,197.57,19.62,48.01,7.83,38.82,Onion
+Indore,Indore,Rabi,26.21,38.74,223.96,18.51,54.67,7.75,35.75,Gram (Chickpea)
+Indore,Depalpur,Rabi,40.11,40.0,154.67,20.74,56.17,7.73,41.35,Gram (Chickpea)
+Indore,Sanwer,Rabi,23.91,19.27,345.91,19.89,51.07,7.25,32.65,Onion
+Indore,Indore,Kharif,76.55,21.71,359.06,29.18,77.68,7.28,916.54,Maize (Corn)
+Indore,Sanwer,Rabi,37.68,35.82,282.71,20.5,51.45,7.87,21.28,Gram (Chickpea)
+Indore,Sanwer,Kharif,55.63,40.0,396.86,28.06,73.42,7.93,937.17,Soybean
+Indore,Hatod,Rabi,60.94,35.82,438.16,21.72,48.09,7.9,41.44,Wheat
+Indore,Indore,Rabi,28.91,40.0,290.83,22.99,49.78,7.93,23.43,Gram (Chickpea)
+Indore,Depalpur,Kharif,20.0,40.0,337.05,25.88,73.93,7.53,826.23,Soybean
+Indore,Depalpur,Rabi,66.46,36.41,444.17,20.49,51.68,8.08,26.28,Wheat
+Indore,Indore,Rabi,87.26,35.41,323.53,22.17,49.61,7.27,39.17,Wheat
+Indore,Mhow,Rabi,96.96,35.73,256.59,18.0,53.4,7.67,33.34,Wheat
+Indore,Indore,Kharif,46.56,40.0,185.54,27.8,81.38,7.77,868.4,Soybean
+Indore,Hatod,Rabi,53.67,22.34,312.83,19.54,49.87,7.27,27.09,Onion
+Indore,Depalpur,Kharif,25.92,40.0,235.02,28.02,78.34,7.47,867.44,Soybean
+Indore,Mhow,Kharif,36.71,40.0,291.38,26.53,82.02,7.23,961.43,Soybean
+Indore,Indore,Kharif,71.18,10.0,312.54,27.78,84.29,7.38,896.35,Maize (Corn)
+Indore,Sanwer,Rabi,93.68,20.99,270.75,20.84,47.58,7.8,30.21,Onion
+Indore,Depalpur,Kharif,72.48,13.58,404.56,26.21,72.18,7.43,950.57,Maize (Corn)
+Indore,Indore,Kharif,99.04,20.11,340.64,28.02,74.45,7.45,902.0,Maize (Corn)
+Indore,Mhow,Kharif,53.96,30.17,312.75,28.28,81.75,7.68,1017.78,Maize (Corn)
+Indore,Sanwer,Rabi,94.15,37.23,244.89,19.79,48.41,7.61,36.11,Onion
+Indore,Indore,Rabi,26.24,17.44,165.65,18.12,53.76,7.26,55.52,Onion
+Indore,Mhow,Kharif,52.73,36.27,189.43,28.18,78.84,7.44,918.79,Maize (Corn)
+Indore,Mhow,Kharif,73.32,37.55,426.13,28.15,83.19,7.9,943.1,Maize (Corn)
+Indore,Sanwer,Kharif,24.54,40.0,307.06,30.14,74.43,7.72,819.42,Soybean
+Indore,Depalpur,Kharif,42.97,40.0,277.43,28.78,72.49,7.75,889.46,Soybean
+Indore,Depalpur,Rabi,79.74,35.14,255.17,17.51,50.8,7.92,34.24,Wheat
+Indore,Depalpur,Rabi,27.15,35.23,259.93,22.02,56.78,8.2,31.37,Gram (Chickpea)
+Indore,Hatod,Rabi,71.18,38.44,377.76,20.69,46.35,8.15,34.79,Wheat
+Indore,Indore,Kharif,55.64,23.97,250.48,29.67,71.68,7.45,971.91,Maize (Corn)
+Indore,Sanwer,Rabi,59.0,37.27,241.74,20.87,45.29,8.15,24.54,Wheat
+Indore,Hatod,Rabi,64.29,26.33,192.15,22.16,49.35,7.26,39.43,Onion
+Indore,Indore,Kharif,36.05,40.0,330.5,28.55,76.81,7.27,897.96,Soybean
+Indore,Depalpur,Rabi,59.49,22.84,267.16,20.84,52.53,7.54,41.49,Onion
+Indore,Depalpur,Kharif,66.71,31.36,271.59,25.94,75.38,7.69,927.18,Maize (Corn)
+Indore,Mhow,Rabi,28.47,37.02,383.23,17.94,53.68,7.47,45.4,Gram (Chickpea)
+Indore,Depalpur,Rabi,97.07,37.36,376.43,21.58,46.42,7.3,30.22,Wheat
+Indore,Hatod,Kharif,47.97,38.51,290.79,30.62,75.97,7.66,864.55,Maize (Corn)
+Indore,Mhow,Rabi,62.12,40.0,264.8,16.96,59.65,7.98,41.34,Wheat
+Indore,Indore,Rabi,20.0,35.54,254.6,18.9,55.18,8.01,42.16,Gram (Chickpea)
+Indore,Depalpur,Rabi,97.69,27.4,161.96,19.2,54.95,7.36,36.68,Onion
+Indore,Hatod,Kharif,54.84,40.0,200.34,26.41,77.8,7.9,915.05,Soybean
+Indore,Hatod,Kharif,48.75,40.0,181.13,26.19,73.29,7.38,910.54,Soybean
+Indore,Depalpur,Kharif,75.34,29.62,442.93,27.42,78.97,7.67,869.06,Maize (Corn)
+Indore,Indore,Rabi,23.91,22.11,371.01,19.43,55.44,7.76,15.3,Onion
+Indore,Sanwer,Rabi,100.0,35.03,276.92,20.82,48.59,7.47,18.29,Wheat
+Indore,Hatod,Kharif,83.37,18.59,319.76,26.64,69.21,7.88,835.09,Maize (Corn)
+Indore,Hatod,Rabi,33.02,36.18,176.83,20.43,48.2,7.75,47.49,Gram (Chickpea)
+Indore,Hatod,Kharif,100.0,17.28,333.31,28.34,75.02,7.68,819.48,Maize (Corn)
+Indore,Hatod,Kharif,57.96,28.83,221.52,29.22,72.66,7.42,895.5,Maize (Corn)
+Indore,Indore,Rabi,84.07,12.34,225.44,19.59,52.37,7.2,42.41,Onion
+Indore,Indore,Rabi,41.39,36.74,427.44,23.19,45.22,8.09,31.09,Gram (Chickpea)
+Indore,Indore,Kharif,90.11,10.0,347.4,27.67,77.86,7.66,930.95,Maize (Corn)
+Indore,Hatod,Rabi,85.18,36.63,191.62,20.09,45.61,7.85,29.47,Wheat
+Indore,Sanwer,Rabi,22.62,15.53,417.2,20.71,48.87,7.77,32.15,Onion
+Indore,Depalpur,Rabi,38.05,13.96,337.61,23.41,52.18,7.48,30.93,Onion
+Indore,Sanwer,Rabi,80.39,38.32,172.36,19.28,46.3,7.89,34.94,Wheat
+Indore,Mhow,Rabi,45.2,35.72,251.07,19.9,51.21,7.78,48.41,Gram (Chickpea)
+Indore,Mhow,Rabi,74.2,35.14,230.69,18.25,55.43,8.09,37.98,Wheat
+Indore,Indore,Kharif,86.62,35.12,331.97,28.65,76.71,7.55,925.5,Maize (Corn)
+Indore,Hatod,Kharif,52.06,35.31,186.74,28.3,73.92,7.84,850.3,Maize (Corn)
+Indore,Hatod,Rabi,88.63,35.56,409.52,19.64,54.12,7.98,11.7,Wheat
+Indore,Depalpur,Rabi,25.23,38.09,214.32,21.13,52.77,7.91,17.43,Gram (Chickpea)
+Indore,Depalpur,Kharif,65.19,28.98,315.42,28.93,77.95,7.82,871.06,Maize (Corn)
+Indore,Depalpur,Rabi,88.1,11.93,371.7,20.52,52.48,7.64,51.51,Onion
+Indore,Hatod,Kharif,52.82,40.0,329.1,29.81,72.62,7.64,924.13,Soybean
+Indore,Mhow,Kharif,57.88,40.0,221.39,27.36,75.92,7.35,938.88,Soybean
+Indore,Mhow,Rabi,98.83,40.0,306.57,18.61,55.19,7.9,28.31,Wheat
+Indore,Indore,Rabi,23.86,39.68,407.57,20.68,57.2,7.55,39.87,Gram (Chickpea)
+Indore,Indore,Rabi,26.97,36.54,282.04,19.58,48.66,7.4,45.59,Gram (Chickpea)
+Indore,Indore,Kharif,27.05,40.0,197.07,27.33,80.08,7.76,839.14,Soybean
+Indore,Depalpur,Rabi,92.63,37.51,262.11,20.94,57.66,8.19,39.85,Wheat
+Indore,Mhow,Rabi,54.99,28.28,274.88,18.85,50.79,7.4,40.93,Onion
+Indore,Sanwer,Rabi,31.76,40.0,272.96,20.61,48.73,7.71,26.1,Gram (Chickpea)
+Indore,Sanwer,Rabi,48.31,39.12,270.15,16.96,48.74,7.96,33.64,Gram (Chickpea)
+Indore,Indore,Rabi,46.44,19.12,306.76,21.54,56.59,7.78,37.35,Onion
+Indore,Indore,Rabi,87.42,37.8,224.76,19.38,55.9,7.43,33.67,Wheat
+Indore,Sanwer,Kharif,58.64,40.0,416.29,26.35,75.48,7.29,876.35,Soybean
+Indore,Mhow,Kharif,32.2,40.0,299.62,26.73,82.93,7.76,980.2,Soybean
+Indore,Mhow,Rabi,41.81,35.81,285.79,18.42,54.87,7.24,24.84,Gram (Chickpea)
+Indore,Mhow,Kharif,43.61,40.0,228.46,27.05,80.84,7.7,999.1,Soybean
+Indore,Indore,Rabi,71.74,37.42,361.51,19.9,58.54,7.67,43.06,Wheat
+Indore,Depalpur,Rabi,90.18,40.0,197.79,19.42,53.9,7.57,23.42,Wheat
+Indore,Sanwer,Rabi,33.83,17.57,349.24,15.98,53.45,7.3,18.08,Onion
+Indore,Sanwer,Kharif,54.91,15.49,288.82,28.6,81.41,7.41,902.69,Maize (Corn)
+Indore,Sanwer,Kharif,37.19,40.0,405.53,26.67,76.68,7.44,966.93,Soybean
+Indore,Hatod,Kharif,80.33,12.77,376.02,28.37,78.32,7.85,944.76,Maize (Corn)
+Indore,Hatod,Rabi,34.67,35.59,198.2,21.32,50.66,7.84,32.68,Gram (Chickpea)
+Indore,Sanwer,Kharif,44.94,40.0,155.27,27.41,74.28,7.37,919.23,Soybean
+Indore,Mhow,Kharif,56.04,23.67,428.27,28.1,75.85,7.81,938.24,Maize (Corn)
+Indore,Indore,Kharif,31.68,40.0,413.29,29.61,79.45,7.36,1028.23,Soybean
+Indore,Sanwer,Rabi,72.03,35.14,167.89,19.53,51.16,7.92,34.59,Onion
+Indore,Mhow,Rabi,64.13,37.29,326.89,18.66,52.62,7.63,61.02,Wheat
+Indore,Sanwer,Kharif,73.97,12.59,376.14,26.93,70.51,7.6,922.69,Maize (Corn)
+Indore,Depalpur,Kharif,45.31,37.71,347.83,27.69,66.34,7.45,872.42,Maize (Corn)
+Indore,Hatod,Kharif,26.43,40.0,217.87,28.79,71.35,7.54,891.65,Soybean
+Indore,Sanwer,Rabi,81.34,40.0,242.77,18.57,50.81,7.61,40.07,Wheat
+Indore,Mhow,Rabi,86.35,38.28,445.27,19.48,53.61,7.34,33.13,Wheat
+Indore,Sanwer,Rabi,43.01,37.98,293.62,20.58,50.89,7.36,39.81,Gram (Chickpea)
+Indore,Indore,Rabi,63.08,36.73,365.63,19.49,49.81,7.61,43.42,Wheat
+Indore,Depalpur,Rabi,77.93,35.62,252.16,19.54,49.18,7.76,44.63,Wheat
+Indore,Indore,Kharif,31.19,40.0,364.33,27.16,79.78,7.57,896.74,Soybean
+Indore,Mhow,Rabi,64.09,39.22,214.71,17.75,54.63,7.9,42.75,Onion
+Indore,Hatod,Rabi,29.15,40.0,378.87,22.16,49.55,7.83,25.03,Gram (Chickpea)
+Indore,Depalpur,Kharif,57.24,20.24,411.98,28.18,76.01,7.4,928.06,Maize (Corn)
+Indore,Hatod,Rabi,86.19,29.37,182.68,20.91,44.26,7.46,37.16,Onion
+Indore,Hatod,Rabi,75.53,18.57,341.61,18.8,48.2,7.23,30.27,Onion
+Indore,Depalpur,Kharif,37.66,40.0,424.91,30.19,73.86,7.33,847.3,Soybean
+Indore,Indore,Rabi,20.0,13.97,331.74,20.39,55.89,7.21,29.14,Onion
+Indore,Depalpur,Rabi,75.7,39.49,175.27,18.9,49.11,8.09,48.12,Wheat
+Indore,Hatod,Kharif,25.69,40.0,358.16,28.53,76.78,7.38,952.54,Soybean
+Indore,Sanwer,Kharif,23.31,40.0,304.56,29.76,74.14,7.55,845.26,Soybean
+Indore,Hatod,Kharif,75.84,28.11,155.79,30.08,68.97,7.46,808.54,Maize (Corn)
+Indore,Mhow,Kharif,24.73,40.0,150.0,26.23,77.16,7.43,1014.18,Soybean
+Indore,Sanwer,Rabi,20.34,40.0,238.85,18.73,45.88,7.86,42.44,Gram (Chickpea)
+Indore,Hatod,Kharif,77.69,40.0,306.39,28.45,74.68,7.61,953.55,Maize (Corn)
+Indore,Depalpur,Kharif,72.12,24.38,399.23,28.53,75.99,7.36,812.56,Maize (Corn)
+Indore,Indore,Rabi,88.41,36.97,405.61,18.05,50.54,7.75,29.67,Wheat
+Indore,Depalpur,Rabi,87.02,35.6,330.66,19.77,42.35,7.37,31.46,Wheat
+Indore,Indore,Kharif,74.32,13.17,237.8,29.8,78.63,7.3,928.93,Maize (Corn)
+Indore,Sanwer,Rabi,85.88,40.0,424.73,21.15,49.35,7.61,29.85,Wheat
+Indore,Depalpur,Kharif,38.45,40.0,200.12,28.42,80.1,7.77,916.97,Soybean
+Indore,Mhow,Rabi,45.84,40.0,355.64,16.44,56.08,7.44,42.58,Gram (Chickpea)
+Indore,Mhow,Rabi,57.55,13.19,430.8,18.34,53.77,7.33,51.23,Onion
+Indore,Depalpur,Rabi,79.72,26.85,265.49,19.43,47.7,7.4,38.52,Onion
+Indore,Depalpur,Kharif,59.55,40.0,268.17,27.57,72.84,7.83,866.72,Soybean
+Indore,Depalpur,Kharif,57.03,40.0,219.98,28.79,70.86,7.46,896.12,Soybean
+Indore,Hatod,Kharif,22.92,40.0,445.11,29.91,76.18,7.66,902.45,Soybean
+Indore,Depalpur,Rabi,34.34,22.55,261.02,19.91,50.92,7.87,27.53,Onion
+Indore,Sanwer,Kharif,50.41,12.1,338.08,30.22,77.73,7.8,918.8,Maize (Corn)
+Indore,Mhow,Rabi,60.79,40.0,302.48,19.2,56.2,7.82,46.37,Wheat
+Indore,Hatod,Rabi,37.16,35.13,326.39,20.76,52.34,7.65,16.8,Gram (Chickpea)
+Indore,Indore,Rabi,56.62,35.27,339.84,21.75,47.86,7.46,24.37,Onion
+Indore,Indore,Kharif,44.88,40.0,207.11,29.16,74.51,7.98,984.28,Soybean
+Indore,Depalpur,Kharif,44.05,40.0,231.58,26.75,69.02,7.26,913.8,Soybean
+Indore,Hatod,Kharif,90.88,24.62,306.25,28.62,69.89,7.77,889.62,Maize (Corn)
+Indore,Indore,Kharif,22.67,40.0,385.79,29.42,85.42,7.81,950.71,Soybean
+Indore,Hatod,Rabi,67.01,28.27,327.82,21.89,50.16,7.56,38.73,Onion
+Indore,Indore,Rabi,36.86,23.18,161.34,16.55,50.11,7.25,34.09,Onion
+Indore,Depalpur,Rabi,35.23,38.98,165.71,19.11,48.94,8.04,24.2,Gram (Chickpea)
+Indore,Hatod,Rabi,24.99,36.72,235.84,21.43,47.92,7.37,26.27,Gram (Chickpea)
+Indore,Mhow,Rabi,80.87,37.64,433.06,20.62,49.78,7.49,35.6,Wheat
+Indore,Depalpur,Rabi,51.78,32.94,250.44,19.61,48.78,8.0,21.98,Onion
+Indore,Hatod,Rabi,64.87,28.14,427.09,20.44,44.69,7.76,37.35,Onion
+Indore,Mhow,Kharif,99.36,39.87,195.69,29.91,75.31,7.59,932.96,Maize (Corn)
+Indore,Depalpur,Kharif,42.55,40.0,303.64,29.5,70.4,7.25,827.92,Soybean
+Indore,Depalpur,Rabi,24.11,37.54,418.07,18.96,49.01,7.81,47.64,Gram (Chickpea)
+Indore,Indore,Rabi,38.23,37.42,326.02,19.04,56.13,7.37,33.73,Gram (Chickpea)
+Indore,Sanwer,Rabi,98.46,37.83,308.28,20.3,48.64,8.01,40.1,Wheat
+Indore,Sanwer,Rabi,23.59,36.21,380.26,21.06,47.95,8.14,34.37,Gram (Chickpea)
+Indore,Indore,Kharif,55.18,40.0,203.3,28.25,79.48,7.55,905.1,Soybean
+Indore,Hatod,Rabi,89.42,22.6,397.68,21.07,49.06,7.95,11.44,Onion
+Indore,Sanwer,Kharif,46.04,40.0,180.06,26.43,77.78,7.99,935.01,Soybean
+Indore,Indore,Rabi,21.22,14.68,180.24,19.75,54.24,7.74,38.75,Onion
+Indore,Sanwer,Rabi,75.62,15.1,385.0,17.73,45.2,7.89,22.26,Onion
+Indore,Sanwer,Rabi,59.16,39.46,150.0,19.43,50.05,7.34,36.76,Wheat
+Indore,Depalpur,Rabi,74.99,37.52,443.66,18.81,48.67,7.46,31.97,Wheat
+Indore,Sanwer,Rabi,32.29,21.24,310.59,20.11,51.86,7.31,16.71,Onion
+Indore,Indore,Rabi,71.55,40.0,424.51,20.34,51.19,7.58,31.81,Wheat
+Indore,Indore,Rabi,21.47,40.0,202.74,20.58,51.93,7.87,37.44,Gram (Chickpea)
+Indore,Mhow,Kharif,53.61,26.22,318.8,27.21,78.56,7.25,991.33,Maize (Corn)
+Indore,Indore,Kharif,28.05,40.0,295.57,28.35,79.02,7.41,914.19,Soybean
+Indore,Hatod,Rabi,38.21,13.65,322.99,20.03,50.65,7.75,22.25,Onion
+Indore,Hatod,Rabi,21.18,30.05,432.08,17.39,51.65,7.2,35.89,Onion
+Indore,Indore,Kharif,47.76,40.0,330.04,28.23,74.77,7.46,1012.66,Soybean
+Indore,Indore,Rabi,92.39,23.36,381.93,19.11,54.27,7.35,42.01,Onion
+Indore,Sanwer,Rabi,83.67,39.77,170.06,19.62,50.24,7.49,29.34,Wheat
+Indore,Mhow,Rabi,72.89,35.06,411.33,19.46,56.83,7.39,46.58,Wheat
+Indore,Sanwer,Kharif,86.09,20.97,291.63,27.09,69.77,7.48,897.06,Maize (Corn)
+Indore,Hatod,Kharif,23.55,40.0,215.55,26.91,69.94,7.36,859.29,Soybean
+Indore,Sanwer,Rabi,25.23,35.33,158.26,18.69,47.93,8.09,25.26,Gram (Chickpea)
+Indore,Depalpur,Rabi,29.59,40.0,387.77,21.04,49.68,7.32,39.78,Gram (Chickpea)
+Indore,Sanwer,Kharif,48.79,12.16,440.81,28.11,71.06,7.64,842.07,Maize (Corn)
+Indore,Mhow,Rabi,90.57,33.18,205.58,18.7,55.85,7.77,40.01,Onion
+Indore,Depalpur,Rabi,88.51,37.14,252.01,20.26,43.15,7.46,45.67,Wheat
+Indore,Mhow,Kharif,71.6,17.93,230.95,26.28,77.09,7.27,1014.02,Maize (Corn)
+Indore,Depalpur,Kharif,48.97,15.17,255.65,27.49,75.99,7.77,920.19,Maize (Corn)
+Indore,Indore,Kharif,22.05,40.0,297.18,26.49,75.42,7.36,937.86,Soybean
+Indore,Hatod,Rabi,59.18,35.11,245.32,20.82,49.28,7.66,33.81,Wheat
+Indore,Indore,Rabi,72.92,39.03,365.54,21.32,52.67,7.55,37.04,Wheat
+Indore,Indore,Rabi,40.19,36.35,408.89,21.39,46.57,7.53,41.12,Gram (Chickpea)
+Indore,Depalpur,Rabi,82.99,34.67,253.08,18.47,49.67,7.39,32.69,Onion
+Indore,Indore,Kharif,21.62,40.0,350.96,29.28,79.42,7.45,884.28,Soybean
+Indore,Mhow,Rabi,25.42,40.0,227.87,17.69,52.85,7.21,49.92,Gram (Chickpea)
+Indore,Mhow,Kharif,42.48,40.0,262.01,27.87,80.45,7.61,956.28,Soybean
+Indore,Mhow,Rabi,91.62,28.29,248.03,19.19,57.93,7.78,46.01,Onion
+Indore,Mhow,Rabi,42.71,38.51,206.27,17.95,52.39,7.75,20.56,Gram (Chickpea)
+Indore,Depalpur,Rabi,92.64,39.29,370.62,19.21,55.85,7.34,41.52,Wheat
+Indore,Indore,Kharif,45.13,27.05,287.11,29.37,78.16,7.82,952.97,Maize (Corn)
+Indore,Mhow,Rabi,96.8,14.07,362.6,19.81,50.82,7.66,50.43,Onion
+Indore,Mhow,Rabi,42.13,39.82,189.15,19.84,51.59,8.19,39.91,Gram (Chickpea)
+Indore,Hatod,Rabi,65.33,33.06,210.3,19.56,46.87,7.64,37.83,Onion
+Indore,Mhow,Kharif,66.05,16.44,280.82,27.56,83.58,7.47,1000.26,Maize (Corn)
+Indore,Hatod,Rabi,51.8,36.32,441.06,18.46,50.54,7.3,34.58,Onion
+Indore,Depalpur,Kharif,56.03,40.0,268.75,27.43,71.18,7.64,934.84,Soybean
+Indore,Mhow,Rabi,31.89,15.0,232.48,20.39,58.68,7.3,39.32,Onion
+Indore,Hatod,Rabi,80.27,15.89,349.07,21.44,50.54,7.98,35.8,Onion
+Indore,Indore,Kharif,39.0,40.0,281.41,28.14,79.58,7.27,866.48,Soybean
+Indore,Depalpur,Rabi,94.88,21.9,253.37,19.83,50.93,7.77,29.49,Onion
+Indore,Hatod,Kharif,32.88,40.0,193.82,28.65,72.33,7.36,843.49,Soybean
+Indore,Indore,Rabi,75.47,30.13,345.74,20.37,48.43,7.82,43.25,Onion
+Indore,Hatod,Rabi,25.15,35.99,358.23,20.76,53.1,7.59,24.96,Gram (Chickpea)
+Indore,Indore,Kharif,51.24,40.0,243.28,26.92,73.02,7.38,946.71,Soybean
+Indore,Depalpur,Rabi,91.73,15.08,331.59,18.73,51.26,7.32,36.86,Onion
+Indore,Depalpur,Rabi,69.11,38.41,217.6,19.53,55.21,7.33,48.3,Wheat
+Indore,Indore,Rabi,32.18,40.0,252.07,18.55,48.9,7.22,56.96,Gram (Chickpea)
+Indore,Sanwer,Rabi,33.32,35.4,249.51,18.34,52.02,8.2,22.57,Gram (Chickpea)
+Indore,Depalpur,Kharif,63.17,35.15,448.7,27.54,75.8,7.77,897.36,Maize (Corn)
+Indore,Depalpur,Kharif,45.99,40.0,427.87,26.38,73.29,7.93,786.18,Soybean
+Indore,Mhow,Kharif,95.31,28.18,358.61,26.8,83.05,7.3,972.22,Maize (Corn)
+Indore,Depalpur,Kharif,56.67,19.7,248.5,26.65,72.97,7.46,931.4,Maize (Corn)
+Indore,Sanwer,Kharif,22.7,40.0,191.1,27.23,75.16,7.56,935.47,Soybean
+Indore,Hatod,Kharif,73.79,35.0,367.68,29.56,70.85,7.3,905.81,Maize (Corn)
+Indore,Depalpur,Rabi,49.1,11.09,430.47,20.22,54.89,7.54,29.25,Onion
+Indore,Indore,Kharif,33.63,40.0,220.86,28.81,77.01,7.85,961.5,Soybean
+Indore,Hatod,Rabi,87.57,38.17,297.36,20.62,47.0,7.42,34.74,Wheat
+Indore,Depalpur,Rabi,78.11,39.7,194.14,20.2,52.53,7.75,54.13,Wheat
+Indore,Depalpur,Kharif,51.0,40.0,439.93,29.06,76.27,7.27,874.19,Soybean
+Indore,Hatod,Rabi,61.72,36.5,417.25,18.82,49.68,7.61,40.46,Wheat
+Indore,Hatod,Rabi,71.54,37.45,340.51,18.38,47.54,7.34,35.11,Wheat
+Indore,Mhow,Rabi,43.47,37.52,224.0,17.72,48.54,7.97,46.24,Gram (Chickpea)
+Indore,Depalpur,Kharif,47.63,31.66,338.95,30.58,77.07,7.28,953.96,Maize (Corn)
+Indore,Indore,Kharif,65.09,14.4,374.5,27.14,78.82,7.75,826.64,Maize (Corn)
+Indore,Mhow,Rabi,42.19,40.0,228.9,17.09,54.84,8.19,42.55,Gram (Chickpea)
+Indore,Hatod,Rabi,33.44,35.37,282.22,20.17,45.53,7.98,16.66,Gram (Chickpea)
+Indore,Mhow,Rabi,63.66,11.66,238.22,20.09,54.35,7.65,46.21,Onion
+Indore,Indore,Kharif,29.07,40.0,177.82,28.03,75.61,7.58,976.33,Soybean
+Indore,Indore,Rabi,31.64,37.78,434.43,20.54,55.31,7.96,50.96,Gram (Chickpea)
+Indore,Sanwer,Rabi,40.79,40.0,404.94,18.38,50.34,7.62,44.03,Gram (Chickpea)
+Indore,Hatod,Rabi,70.97,38.49,257.08,20.68,49.46,7.51,33.53,Wheat
+Indore,Indore,Rabi,46.3,37.63,357.23,20.35,56.37,7.64,42.77,Gram (Chickpea)
+Indore,Mhow,Kharif,82.65,26.55,221.85,27.29,73.62,7.46,961.42,Maize (Corn)
+Indore,Hatod,Rabi,88.33,37.38,217.88,19.86,52.19,7.61,19.54,Wheat
+Indore,Sanwer,Rabi,27.81,40.0,246.61,19.71,46.84,8.14,34.33,Gram (Chickpea)
+Indore,Hatod,Rabi,31.68,37.77,159.78,20.85,55.39,7.3,25.91,Gram (Chickpea)
+Indore,Mhow,Kharif,20.06,40.0,220.67,28.51,81.96,7.86,916.35,Soybean
+Indore,Sanwer,Kharif,56.1,29.33,328.55,28.49,75.43,7.35,812.33,Maize (Corn)
+Indore,Depalpur,Kharif,45.09,30.21,288.14,27.94,76.8,7.61,882.86,Maize (Corn)
+Indore,Sanwer,Rabi,91.48,15.21,292.34,20.64,52.62,7.99,22.86,Onion
+Indore,Depalpur,Rabi,56.01,15.11,394.09,19.97,53.99,7.75,48.63,Onion
+Indore,Hatod,Kharif,54.2,40.0,401.03,28.8,71.73,7.42,893.94,Soybean
+Indore,Mhow,Rabi,63.18,15.84,377.88,21.63,57.67,7.76,46.59,Onion
+Indore,Mhow,Kharif,63.61,16.43,184.08,27.21,72.23,7.81,935.42,Maize (Corn)
+Indore,Depalpur,Rabi,74.65,35.59,427.01,19.24,53.05,7.83,46.9,Onion
+Indore,Mhow,Rabi,73.35,40.0,319.86,15.69,52.99,7.34,30.84,Wheat
+Indore,Hatod,Rabi,39.78,40.0,401.03,20.79,49.73,7.3,30.78,Gram (Chickpea)
+Indore,Hatod,Rabi,80.22,39.31,270.87,21.99,43.8,8.2,19.96,Wheat
+Indore,Mhow,Rabi,35.76,10.35,436.51,17.45,57.19,7.88,42.11,Onion
+Indore,Hatod,Rabi,74.85,36.48,205.34,20.04,48.3,7.9,27.14,Wheat
+Indore,Sanwer,Rabi,97.89,26.72,368.0,20.41,52.26,7.45,16.47,Onion
+Indore,Sanwer,Kharif,58.6,40.0,333.49,28.68,78.05,7.57,763.77,Soybean
+Indore,Depalpur,Kharif,64.26,13.41,348.64,27.69,68.85,7.33,917.17,Maize (Corn)
+Indore,Indore,Rabi,36.1,40.0,334.8,19.23,48.51,7.23,33.83,Gram (Chickpea)
+Indore,Sanwer,Kharif,80.86,24.3,363.57,25.7,74.55,7.8,860.16,Maize (Corn)
+Indore,Mhow,Rabi,71.05,37.17,424.29,19.06,54.98,7.67,36.04,Wheat
+Indore,Sanwer,Kharif,58.34,19.89,352.4,28.06,76.98,7.32,939.06,Maize (Corn)
+Indore,Depalpur,Rabi,92.05,25.46,418.38,19.07,55.13,7.92,43.16,Onion
+Indore,Hatod,Rabi,27.42,15.65,266.0,18.71,49.59,7.45,35.91,Onion
+Indore,Indore,Rabi,74.23,17.0,431.98,19.68,52.98,7.46,45.62,Onion
+Indore,Indore,Kharif,40.2,40.0,202.07,29.1,78.82,7.58,908.36,Soybean
+Indore,Mhow,Kharif,82.13,20.14,432.48,26.03,76.77,7.33,975.44,Maize (Corn)
+Indore,Mhow,Rabi,70.85,40.0,424.46,19.36,54.51,7.2,39.51,Wheat
+Indore,Sanwer,Rabi,75.47,37.25,391.93,17.85,48.54,8.16,36.35,Wheat
+Indore,Hatod,Rabi,20.0,40.0,324.46,21.14,43.39,7.49,38.98,Gram (Chickpea)
+Indore,Depalpur,Kharif,95.52,19.07,300.14,30.18,73.18,7.86,869.05,Maize (Corn)
+Indore,Depalpur,Kharif,62.24,23.06,433.19,29.14,68.37,7.28,933.1,Maize (Corn)
+Indore,Mhow,Kharif,45.94,35.3,151.36,28.67,79.01,7.2,987.14,Maize (Corn)
+Indore,Depalpur,Rabi,46.84,40.0,266.1,20.73,51.05,7.69,31.23,Gram (Chickpea)
+Indore,Mhow,Kharif,63.87,20.16,433.38,28.13,78.86,7.76,998.57,Maize (Corn)
+Indore,Mhow,Kharif,85.27,25.28,208.43,29.37,81.75,7.57,949.81,Maize (Corn)
+Indore,Mhow,Kharif,23.02,40.0,162.77,26.67,78.57,7.39,1018.06,Soybean
+Indore,Sanwer,Rabi,30.05,22.06,299.41,18.13,53.67,7.55,29.93,Onion
+Indore,Depalpur,Rabi,95.71,39.99,315.34,18.99,51.49,7.66,33.29,Wheat
+Indore,Mhow,Rabi,97.98,15.39,187.81,19.05,53.86,7.34,31.84,Onion
+Indore,Hatod,Kharif,69.09,14.52,424.18,28.12,75.25,7.56,882.57,Maize (Corn)
+Indore,Depalpur,Rabi,95.94,38.6,167.7,20.78,52.78,7.33,41.83,Wheat
+Indore,Sanwer,Kharif,59.13,32.99,347.39,28.61,75.06,7.44,861.13,Maize (Corn)
+Indore,Indore,Kharif,90.74,26.81,338.12,27.07,77.85,7.48,872.92,Maize (Corn)
+Indore,Depalpur,Rabi,89.81,40.0,374.82,21.99,49.88,7.85,20.24,Wheat
+Indore,Depalpur,Kharif,61.59,17.95,445.69,28.82,76.53,7.32,897.67,Maize (Corn)
+Indore,Hatod,Kharif,23.97,40.0,159.41,26.9,70.51,8.0,815.54,Soybean
+Indore,Sanwer,Kharif,29.83,40.0,355.4,28.02,78.41,7.4,911.1,Soybean
+Indore,Depalpur,Kharif,59.99,26.8,260.01,28.63,74.96,7.26,873.77,Maize (Corn)
+Indore,Hatod,Rabi,47.21,40.0,324.7,19.23,44.65,7.55,39.88,Gram (Chickpea)
+Indore,Sanwer,Kharif,28.18,40.0,177.74,28.98,73.52,7.33,953.09,Soybean
+Indore,Depalpur,Kharif,46.36,38.2,215.32,29.68,70.66,7.32,827.45,Maize (Corn)
+Indore,Sanwer,Kharif,29.75,40.0,433.98,28.76,67.34,7.75,914.04,Soybean
+Indore,Depalpur,Kharif,46.63,19.45,428.07,29.78,71.58,7.74,888.48,Maize (Corn)
+Indore,Sanwer,Rabi,38.1,20.03,161.92,21.97,48.59,7.34,33.27,Onion
+Indore,Mhow,Kharif,82.43,29.15,216.98,26.68,79.27,7.25,958.23,Maize (Corn)
+Indore,Indore,Rabi,27.45,26.01,421.65,21.44,49.11,7.88,43.49,Onion
+Indore,Sanwer,Kharif,90.7,38.56,246.59,27.99,79.83,7.66,847.72,Maize (Corn)
+Indore,Indore,Kharif,84.28,16.42,397.83,26.66,72.36,7.71,952.07,Maize (Corn)
+Indore,Sanwer,Rabi,48.16,35.45,346.51,18.99,45.33,7.83,35.54,Gram (Chickpea)
+Indore,Depalpur,Rabi,94.23,35.46,326.54,19.69,46.08,7.47,38.76,Wheat
+Indore,Sanwer,Kharif,87.32,14.58,239.03,28.81,73.33,7.75,871.42,Maize (Corn)
+Indore,Mhow,Kharif,48.08,40.0,430.62,26.76,81.18,7.83,903.92,Soybean
+Indore,Depalpur,Rabi,44.87,38.94,419.27,21.23,48.32,7.97,31.03,Gram (Chickpea)
+Indore,Depalpur,Kharif,48.36,14.97,389.17,26.97,74.66,7.32,934.81,Maize (Corn)
+Indore,Mhow,Kharif,47.06,32.89,381.63,27.53,78.28,7.34,999.23,Maize (Corn)
+Indore,Sanwer,Rabi,32.85,38.6,319.44,18.66,49.02,7.86,24.47,Gram (Chickpea)
+Indore,Sanwer,Kharif,54.18,40.0,172.59,28.16,77.21,7.78,877.96,Soybean
+Indore,Mhow,Kharif,88.09,34.87,326.23,30.48,79.72,7.54,1012.34,Maize (Corn)
+Indore,Depalpur,Kharif,89.45,11.21,341.6,27.47,71.84,7.31,920.27,Maize (Corn)
+Indore,Mhow,Rabi,27.9,37.56,418.03,18.73,55.63,7.32,53.09,Gram (Chickpea)
+Indore,Sanwer,Rabi,75.74,37.25,329.5,20.02,49.97,7.86,36.53,Wheat
+Indore,Hatod,Kharif,54.32,40.0,357.01,28.46,72.68,7.46,787.01,Soybean
+Indore,Hatod,Rabi,24.2,38.18,421.48,19.81,49.77,7.44,28.07,Onion
+Indore,Mhow,Kharif,94.7,13.96,197.69,26.3,78.76,7.56,965.94,Maize (Corn)
+Indore,Depalpur,Kharif,85.76,15.97,433.5,27.21,78.56,7.78,902.99,Maize (Corn)
+Indore,Mhow,Kharif,93.68,21.89,387.08,29.49,84.26,7.48,932.98,Maize (Corn)
+Indore,Hatod,Rabi,94.14,40.0,407.2,20.08,49.55,7.9,46.8,Wheat
+Indore,Sanwer,Kharif,50.63,40.0,315.6,28.99,72.4,7.72,894.75,Soybean
+Indore,Sanwer,Kharif,50.58,40.0,200.2,29.6,69.27,7.39,954.39,Soybean
+Indore,Sanwer,Rabi,60.9,37.52,427.67,18.76,45.46,7.67,34.57,Onion
+Indore,Sanwer,Kharif,70.01,26.27,303.12,29.33,76.42,7.27,901.52,Maize (Corn)
+Indore,Hatod,Kharif,61.77,21.55,174.36,27.5,73.96,7.56,930.32,Maize (Corn)
+Indore,Indore,Rabi,67.89,40.0,156.35,21.02,51.52,7.43,48.63,Wheat
+Indore,Sanwer,Kharif,20.0,40.0,309.7,27.91,73.34,7.36,993.58,Soybean
+Indore,Indore,Rabi,43.61,35.77,395.9,19.29,52.92,7.99,38.89,Gram (Chickpea)
+Indore,Mhow,Kharif,30.1,40.0,256.6,27.82,80.77,7.47,940.17,Soybean
+Indore,Indore,Kharif,45.1,40.0,190.36,28.38,78.36,7.69,914.6,Soybean
+Indore,Sanwer,Rabi,56.34,40.0,280.02,19.74,52.83,7.46,27.21,Wheat
+Indore,Hatod,Kharif,61.59,14.98,209.15,27.26,63.58,7.87,863.84,Maize (Corn)
+Indore,Indore,Kharif,94.13,35.14,356.9,27.87,75.72,7.69,926.77,Maize (Corn)
+Indore,Hatod,Rabi,23.66,38.5,274.45,21.65,50.18,7.46,38.14,Gram (Chickpea)
+Indore,Mhow,Rabi,90.54,40.0,417.35,22.9,54.16,7.28,31.84,Wheat
+Indore,Mhow,Rabi,45.57,38.75,355.92,17.7,55.07,7.58,48.11,Gram (Chickpea)
+Indore,Mhow,Kharif,53.5,40.0,194.53,26.73,82.05,7.49,980.03,Soybean
+Indore,Sanwer,Rabi,45.86,11.37,278.29,17.94,43.38,7.33,30.16,Onion
+Indore,Indore,Rabi,93.66,38.72,376.19,19.85,52.57,7.48,44.65,Wheat
+Indore,Mhow,Kharif,40.02,40.0,294.97,28.08,87.56,7.93,946.86,Soybean
+Indore,Depalpur,Rabi,45.5,38.87,248.22,20.4,52.2,7.73,54.94,Onion
+Indore,Hatod,Kharif,69.65,36.72,270.37,30.7,68.42,7.51,818.06,Maize (Corn)
+Indore,Hatod,Rabi,55.79,36.85,193.95,18.45,49.49,7.79,47.57,Wheat
+Indore,Sanwer,Rabi,81.19,38.91,264.66,18.08,55.3,8.1,30.08,Wheat
+Indore,Hatod,Rabi,59.16,36.51,407.84,22.75,49.83,7.52,29.82,Onion
+Indore,Sanwer,Rabi,67.32,36.13,188.7,18.82,49.26,7.51,30.65,Wheat
+Indore,Mhow,Kharif,46.43,14.84,349.87,27.54,78.93,7.57,935.15,Maize (Corn)
+Indore,Depalpur,Rabi,72.45,38.49,176.17,20.51,51.3,8.02,31.45,Wheat
+Indore,Indore,Kharif,80.71,16.22,354.7,27.14,76.65,7.59,976.57,Maize (Corn)
+Indore,Indore,Kharif,48.42,40.0,410.63,29.23,77.94,7.93,925.28,Soybean
+Indore,Hatod,Kharif,59.11,40.0,253.95,29.69,71.67,7.84,891.87,Soybean
+Indore,Sanwer,Rabi,29.28,39.18,394.46,18.83,52.37,8.05,16.16,Gram (Chickpea)
+Indore,Hatod,Rabi,47.87,35.49,404.12,19.98,51.24,7.56,26.87,Gram (Chickpea)
+Indore,Sanwer,Rabi,39.85,39.31,426.21,20.15,45.43,7.55,33.44,Gram (Chickpea)
+Indore,Indore,Rabi,88.26,38.65,211.1,19.38,51.04,7.23,54.61,Wheat
+Indore,Hatod,Rabi,29.8,34.2,186.26,18.29,50.21,7.8,35.73,Onion
+Indore,Mhow,Kharif,50.42,40.0,201.78,27.32,79.37,7.75,1002.7,Soybean
+Indore,Mhow,Rabi,84.58,19.69,412.59,16.76,48.31,7.38,43.81,Onion
+Indore,Indore,Rabi,82.17,37.25,363.48,18.79,53.41,7.52,39.54,Wheat
+Indore,Mhow,Rabi,66.96,40.0,337.1,18.6,52.54,7.42,40.35,Wheat
+Indore,Sanwer,Rabi,75.88,25.97,294.31,20.01,48.05,7.71,34.36,Onion
+Indore,Depalpur,Rabi,46.81,36.72,299.75,21.36,49.28,7.41,33.27,Gram (Chickpea)
+Indore,Mhow,Rabi,41.92,39.21,212.12,16.54,52.69,7.81,50.89,Gram (Chickpea)
+Indore,Hatod,Rabi,59.31,39.43,336.94,20.2,52.77,7.41,31.95,Wheat
+Indore,Indore,Rabi,28.08,36.73,439.44,19.39,50.59,7.6,41.93,Gram (Chickpea)
+Indore,Sanwer,Rabi,94.99,36.03,290.14,20.3,51.81,7.46,29.01,Wheat
+Indore,Indore,Kharif,54.92,34.36,280.23,28.51,75.93,7.78,906.01,Maize (Corn)
+Indore,Sanwer,Rabi,36.43,35.3,223.32,18.44,46.81,7.6,38.2,Gram (Chickpea)
+Indore,Sanwer,Rabi,73.61,40.0,191.45,18.8,48.84,7.37,29.73,Wheat
+Indore,Indore,Kharif,22.58,40.0,330.43,28.08,79.95,7.65,913.47,Soybean
+Indore,Mhow,Kharif,60.09,29.08,319.06,26.94,78.49,7.51,923.86,Maize (Corn)
+Indore,Indore,Kharif,52.4,32.61,174.08,28.31,74.37,7.69,991.61,Maize (Corn)
+Indore,Depalpur,Rabi,24.59,39.22,397.7,18.88,51.6,7.56,34.51,Gram (Chickpea)
+Indore,Depalpur,Rabi,29.23,35.64,315.07,19.47,55.77,8.16,36.47,Gram (Chickpea)
+Indore,Indore,Rabi,65.13,37.43,160.86,20.51,53.75,7.33,48.98,Wheat
+Indore,Hatod,Rabi,55.03,22.09,411.32,19.07,49.84,7.72,10.0,Onion
+Indore,Indore,Rabi,71.18,10.08,406.24,17.98,53.35,7.71,46.05,Onion
+Indore,Mhow,Rabi,44.87,21.17,280.21,20.52,53.6,7.42,36.97,Onion
+Indore,Depalpur,Kharif,56.21,40.0,189.12,31.4,71.59,7.75,953.76,Maize (Corn)
+Indore,Depalpur,Kharif,33.19,40.0,203.48,26.68,75.31,7.36,887.23,Soybean
+Indore,Hatod,Rabi,34.63,38.42,443.88,19.53,47.7,7.7,19.95,Gram (Chickpea)
+Indore,Sanwer,Kharif,79.06,25.52,240.19,27.65,73.03,7.48,947.12,Maize (Corn)
+Indore,Hatod,Rabi,69.05,40.0,218.72,20.29,47.35,7.58,37.78,Wheat
+Indore,Hatod,Rabi,68.98,37.5,382.19,21.31,49.54,8.08,37.62,Wheat
+Indore,Indore,Rabi,32.46,28.78,251.88,19.54,51.08,7.48,44.24,Onion
+Indore,Depalpur,Kharif,49.16,13.53,304.79,26.83,78.27,7.81,949.81,Maize (Corn)
+Indore,Hatod,Rabi,43.83,37.36,368.61,21.4,52.79,7.64,33.34,Gram (Chickpea)
+Indore,Hatod,Rabi,87.27,37.78,403.55,20.58,52.45,7.91,20.86,Wheat
+Indore,Depalpur,Rabi,24.68,21.42,388.5,21.03,49.35,7.66,28.45,Onion
+Indore,Sanwer,Rabi,45.95,35.27,168.62,18.67,48.65,7.36,38.98,Gram (Chickpea)
+Indore,Mhow,Kharif,40.04,40.0,438.55,28.39,85.67,7.36,1001.23,Soybean
+Indore,Mhow,Rabi,90.68,40.0,392.36,19.33,57.61,7.73,42.66,Wheat
+Indore,Mhow,Kharif,100.0,34.75,202.04,27.51,83.32,7.33,985.5,Maize (Corn)
+Indore,Mhow,Rabi,27.73,39.03,298.34,15.25,54.4,8.1,25.19,Gram (Chickpea)
+Indore,Sanwer,Rabi,46.45,40.0,329.05,18.77,53.07,7.36,30.55,Gram (Chickpea)
+Indore,Depalpur,Rabi,48.59,39.88,349.23,20.01,47.87,8.13,29.88,Gram (Chickpea)
+Indore,Mhow,Rabi,78.43,33.24,264.19,19.52,66.56,7.27,46.57,Onion
+Indore,Mhow,Rabi,62.96,22.94,242.81,19.06,54.81,7.69,36.72,Onion
+Indore,Depalpur,Rabi,41.32,37.05,334.88,20.87,51.99,8.17,53.46,Gram (Chickpea)
+Indore,Mhow,Kharif,53.4,31.45,269.46,27.22,77.16,7.61,1010.87,Maize (Corn)
+Indore,Mhow,Rabi,36.58,19.07,366.86,18.03,55.56,7.59,35.96,Onion
+Indore,Sanwer,Kharif,95.34,28.17,356.52,27.49,71.82,7.4,956.67,Maize (Corn)
+Indore,Indore,Kharif,71.66,16.57,159.69,28.63,75.28,7.67,963.11,Maize (Corn)
+Indore,Mhow,Rabi,58.68,35.5,314.85,18.73,52.43,7.63,36.05,Wheat
+Indore,Hatod,Rabi,95.64,19.57,334.14,20.22,50.09,7.27,46.75,Onion
+Indore,Indore,Kharif,50.77,40.0,342.04,29.54,78.22,7.81,899.59,Soybean
+Indore,Sanwer,Rabi,51.74,37.23,197.56,19.57,48.45,7.5,24.6,Onion
+Indore,Sanwer,Rabi,42.95,35.1,228.87,19.51,49.63,7.68,22.23,Gram (Chickpea)
+Indore,Mhow,Kharif,46.79,23.17,305.11,29.35,75.52,7.44,952.4,Maize (Corn)
+Indore,Depalpur,Kharif,29.43,40.0,167.99,29.39,70.28,7.66,864.6,Soybean
+Indore,Hatod,Rabi,82.45,35.73,276.17,20.52,49.2,7.72,37.74,Wheat
+Indore,Indore,Rabi,47.4,36.67,159.64,19.69,50.3,7.86,25.19,Gram (Chickpea)
+Indore,Indore,Kharif,42.73,40.0,242.62,27.77,76.35,7.84,920.77,Soybean
+Indore,Hatod,Kharif,56.83,40.0,296.04,28.38,72.27,7.32,952.49,Soybean
+Indore,Sanwer,Rabi,81.95,30.25,334.7,21.15,52.11,7.42,38.31,Onion
+Indore,Indore,Kharif,24.6,40.0,434.0,28.57,79.34,7.93,951.23,Soybean
+Indore,Hatod,Rabi,83.56,26.46,264.28,20.31,50.86,7.75,43.11,Onion
+Indore,Indore,Rabi,71.42,35.68,180.56,19.96,50.73,7.99,49.39,Wheat
+Indore,Mhow,Rabi,68.65,17.75,411.55,18.24,50.99,7.2,47.79,Onion
+Indore,Depalpur,Kharif,72.72,15.29,156.75,30.03,69.69,7.79,932.34,Maize (Corn)
+Indore,Mhow,Rabi,28.72,40.0,181.8,21.52,50.58,7.84,44.45,Gram (Chickpea)
+Indore,Mhow,Kharif,77.18,15.12,308.95,28.5,80.74,7.63,963.52,Maize (Corn)
+Indore,Hatod,Rabi,60.07,35.39,154.77,21.3,52.94,8.2,19.69,Wheat
+Indore,Depalpur,Rabi,43.72,37.17,379.99,20.46,48.5,7.62,41.53,Gram (Chickpea)
+Indore,Indore,Kharif,40.68,40.0,442.58,28.31,75.03,7.81,920.3,Soybean
+Indore,Sanwer,Kharif,25.43,40.0,416.11,28.39,75.62,7.62,917.83,Soybean
+Indore,Sanwer,Rabi,37.65,36.82,330.96,20.0,48.15,8.05,19.0,Gram (Chickpea)
+Indore,Depalpur,Rabi,97.29,29.01,385.36,19.16,54.25,7.92,24.2,Onion
+Indore,Mhow,Kharif,46.69,36.32,168.16,27.18,79.31,7.31,886.22,Maize (Corn)
+Indore,Mhow,Rabi,59.97,30.41,297.05,19.1,58.95,7.98,33.95,Onion
+Indore,Depalpur,Rabi,39.98,35.04,294.99,19.25,57.0,8.1,24.15,Gram (Chickpea)
+Indore,Mhow,Rabi,65.7,36.42,353.57,18.41,51.33,8.14,34.86,Wheat
+Indore,Indore,Rabi,87.95,36.57,416.89,19.74,55.21,8.14,32.16,Wheat
+Indore,Depalpur,Kharif,38.03,40.0,173.09,28.78,76.07,7.73,861.95,Soybean
+Indore,Depalpur,Kharif,97.51,10.0,213.67,29.89,71.08,7.73,898.3,Maize (Corn)
+Indore,Sanwer,Rabi,42.0,37.37,441.83,18.36,52.31,7.31,41.1,Gram (Chickpea)
+Indore,Sanwer,Rabi,29.05,36.49,172.58,19.3,52.25,7.57,39.73,Gram (Chickpea)
+Indore,Indore,Kharif,36.76,40.0,285.05,27.85,77.83,7.59,833.65,Soybean
+Indore,Hatod,Rabi,66.25,40.0,394.06,21.7,47.83,7.91,19.9,Wheat
+Indore,Sanwer,Kharif,59.53,40.0,233.19,28.79,81.27,7.55,904.19,Soybean
+Indore,Depalpur,Rabi,34.95,35.83,443.4,21.53,48.68,7.51,31.02,Gram (Chickpea)
+Indore,Sanwer,Kharif,47.38,32.7,415.11,26.99,72.14,7.6,913.32,Maize (Corn)
+Indore,Depalpur,Rabi,99.48,35.28,257.02,20.68,47.37,8.05,22.5,Wheat
+Indore,Depalpur,Rabi,71.19,20.85,326.03,18.94,55.89,7.77,30.35,Onion
+Indore,Sanwer,Rabi,31.52,12.1,311.5,19.34,47.05,7.49,40.97,Onion
+Indore,Indore,Rabi,32.13,38.67,295.96,19.59,52.75,7.39,36.92,Gram (Chickpea)
+Indore,Depalpur,Rabi,33.58,36.8,176.61,18.58,48.75,7.98,48.93,Gram (Chickpea)
+Indore,Mhow,Kharif,90.82,30.94,283.87,27.66,77.37,7.26,922.79,Maize (Corn)
+Indore,Hatod,Kharif,48.92,40.0,258.0,28.64,74.92,7.89,899.96,Soybean
+Indore,Indore,Kharif,60.88,21.6,320.76,27.67,84.76,7.8,964.18,Maize (Corn)
+Indore,Indore,Rabi,28.14,37.35,391.5,18.96,55.91,7.99,27.85,Gram (Chickpea)
+Indore,Sanwer,Rabi,74.01,17.87,176.03,20.23,50.8,7.33,37.26,Onion
+Indore,Hatod,Rabi,44.77,37.56,363.62,20.96,46.96,7.8,35.63,Gram (Chickpea)
+Indore,Indore,Rabi,61.46,27.71,323.31,19.02,50.41,7.77,42.69,Onion
+Indore,Sanwer,Kharif,70.7,32.87,394.61,27.59,77.93,7.76,839.05,Maize (Corn)
+Indore,Sanwer,Kharif,59.78,40.0,240.37,28.23,74.19,7.31,881.71,Soybean
+Indore,Depalpur,Rabi,57.44,26.61,361.42,18.45,49.31,7.24,43.17,Onion
+Indore,Indore,Rabi,88.86,32.84,176.26,19.9,51.7,7.63,45.35,Onion
+Indore,Hatod,Kharif,50.3,40.0,400.63,28.87,75.73,7.77,787.14,Soybean
+Indore,Indore,Kharif,37.84,40.0,188.22,28.6,81.98,7.57,971.52,Soybean
+Indore,Indore,Rabi,20.0,36.26,258.81,20.55,50.13,7.44,29.59,Gram (Chickpea)
+Indore,Indore,Kharif,69.24,28.26,387.6,29.36,83.46,7.78,916.26,Maize (Corn)
+Indore,Sanwer,Rabi,89.83,39.81,227.15,19.92,53.11,8.1,23.82,Wheat
+Indore,Mhow,Rabi,95.97,14.38,237.67,20.18,52.81,7.42,44.89,Onion
+Indore,Depalpur,Kharif,46.14,29.28,395.56,28.49,72.99,7.58,879.11,Maize (Corn)
+Indore,Sanwer,Rabi,49.18,18.03,436.43,19.9,47.43,7.26,32.78,Onion
+Indore,Hatod,Rabi,32.64,35.05,162.42,22.68,51.27,7.56,33.34,Gram (Chickpea)
+Indore,Depalpur,Kharif,47.71,40.0,272.54,26.28,71.38,7.91,843.07,Soybean
+Indore,Hatod,Rabi,80.16,39.56,317.49,20.1,50.91,7.4,21.79,Wheat
+Indore,Depalpur,Rabi,41.38,37.07,294.96,20.47,49.83,7.97,37.15,Onion
+Indore,Mhow,Rabi,81.94,39.03,238.87,18.45,51.14,7.91,39.6,Wheat
+Indore,Indore,Kharif,30.15,40.0,235.53,26.89,77.33,7.86,939.81,Soybean
+Indore,Sanwer,Rabi,91.09,39.08,241.54,18.88,50.34,7.52,20.98,Wheat
+Indore,Mhow,Rabi,28.12,35.34,383.38,19.07,51.83,7.97,40.78,Gram (Chickpea)
+Indore,Indore,Kharif,71.7,37.06,171.08,28.36,73.55,7.35,971.82,Maize (Corn)
+Indore,Sanwer,Rabi,75.52,37.05,369.18,20.42,51.11,7.2,22.52,Wheat
+Indore,Depalpur,Kharif,40.96,40.0,285.74,28.51,73.48,7.21,882.36,Soybean
+Indore,Sanwer,Kharif,51.15,40.0,276.25,27.73,71.63,7.43,961.86,Soybean
+Indore,Depalpur,Rabi,79.93,37.76,360.95,23.1,50.25,7.85,40.92,Wheat
+Indore,Depalpur,Rabi,62.09,27.82,438.52,19.83,48.02,7.66,14.5,Onion
+Indore,Depalpur,Rabi,78.28,37.56,359.33,18.88,53.18,7.79,41.76,Wheat
+Indore,Depalpur,Rabi,87.34,39.93,421.33,19.72,50.01,7.86,32.44,Wheat
+Indore,Sanwer,Kharif,99.46,18.44,266.55,28.94,74.0,7.48,942.79,Maize (Corn)
+Indore,Mhow,Kharif,59.75,23.94,203.8,29.82,84.58,7.74,994.07,Maize (Corn)
+Indore,Mhow,Rabi,73.38,37.58,377.47,16.37,55.09,8.07,33.04,Wheat
+Indore,Sanwer,Kharif,28.15,40.0,327.17,27.17,77.89,7.99,849.55,Soybean
+Indore,Hatod,Kharif,63.02,20.59,159.6,27.01,77.51,7.3,909.48,Maize (Corn)
+Indore,Sanwer,Rabi,29.21,35.51,322.79,18.87,57.45,7.33,28.9,Gram (Chickpea)
+Indore,Mhow,Rabi,55.4,39.72,210.06,17.78,55.53,7.68,56.98,Wheat
+Indore,Hatod,Rabi,93.13,35.35,290.66,19.53,47.26,7.26,24.78,Wheat
+Indore,Depalpur,Rabi,81.93,28.0,218.19,17.83,51.64,7.52,35.01,Onion
+Indore,Indore,Rabi,23.38,37.56,274.53,21.18,51.01,7.63,32.81,Gram (Chickpea)
+Indore,Hatod,Rabi,41.15,39.45,355.25,20.17,48.76,7.35,32.51,Gram (Chickpea)
+Indore,Mhow,Kharif,38.89,40.0,427.62,29.76,80.38,7.42,965.6,Soybean
+Indore,Sanwer,Kharif,69.97,31.23,178.06,27.94,77.86,7.69,962.55,Maize (Corn)
+Indore,Mhow,Rabi,45.96,36.82,359.23,18.53,48.35,7.65,35.78,Gram (Chickpea)
+Indore,Indore,Rabi,26.07,12.88,311.31,19.52,55.31,7.2,49.54,Onion
+Indore,Sanwer,Rabi,36.6,18.94,189.0,19.62,54.53,7.76,36.84,Onion
+Indore,Indore,Rabi,66.81,35.9,431.55,20.12,51.45,7.58,30.57,Wheat
+Indore,Hatod,Rabi,47.77,40.0,371.1,21.19,52.41,7.83,33.32,Gram (Chickpea)
+Indore,Sanwer,Rabi,74.17,37.24,232.28,19.48,51.5,7.8,36.53,Wheat
+Indore,Depalpur,Rabi,48.04,35.01,195.97,19.89,48.7,7.36,36.0,Gram (Chickpea)
+Indore,Depalpur,Rabi,61.21,27.93,279.31,20.2,54.2,7.92,30.86,Onion
+Indore,Indore,Rabi,97.79,27.84,402.0,19.9,52.11,7.54,18.93,Onion
+Indore,Indore,Rabi,70.51,37.74,413.41,19.23,51.13,7.52,39.46,Wheat
+Indore,Indore,Kharif,76.83,19.74,217.0,26.51,76.43,7.27,886.91,Maize (Corn)
+Indore,Sanwer,Rabi,20.0,27.36,241.27,21.61,49.33,7.2,29.21,Onion
+Indore,Depalpur,Rabi,96.96,15.68,235.66,20.31,51.77,7.68,34.4,Onion
+Indore,Indore,Rabi,60.91,36.66,432.03,18.86,47.49,7.27,37.5,Wheat
+Indore,Indore,Rabi,75.84,37.36,204.18,18.84,52.06,8.02,44.03,Wheat
+Indore,Mhow,Rabi,31.23,34.6,154.47,18.7,55.44,7.5,51.65,Onion
+Indore,Depalpur,Kharif,58.04,30.14,394.78,26.42,70.46,7.44,944.58,Maize (Corn)
+Indore,Indore,Kharif,25.39,40.0,316.32,30.12,82.62,7.32,947.27,Soybean
+Indore,Indore,Rabi,65.67,37.74,217.07,20.03,55.93,7.37,37.41,Wheat
+Indore,Mhow,Rabi,37.17,35.65,308.09,17.41,60.89,8.07,41.73,Gram (Chickpea)
+Indore,Depalpur,Rabi,44.09,37.25,440.13,20.47,49.48,8.0,35.75,Gram (Chickpea)
+Indore,Depalpur,Rabi,66.88,38.66,283.16,22.55,54.01,7.31,43.1,Wheat
+Indore,Depalpur,Rabi,60.47,37.32,360.33,17.99,51.71,8.2,34.56,Wheat
+Indore,Hatod,Rabi,42.68,39.19,285.76,21.0,55.07,7.26,20.76,Gram (Chickpea)
+Indore,Hatod,Rabi,43.59,40.0,228.76,20.59,49.25,7.32,36.38,Gram (Chickpea)
+Indore,Hatod,Kharif,77.82,23.05,296.54,27.14,74.28,7.55,793.41,Maize (Corn)
+Indore,Mhow,Kharif,57.52,40.0,436.93,28.04,77.99,7.99,901.94,Soybean
+Indore,Hatod,Rabi,86.17,35.0,197.76,17.67,53.6,7.3,38.98,Onion
+Indore,Depalpur,Rabi,49.76,39.77,235.38,21.14,53.66,7.58,28.89,Gram (Chickpea)
+Indore,Indore,Rabi,32.56,27.81,345.7,20.6,48.78,7.55,25.57,Onion
+Indore,Sanwer,Kharif,51.67,40.0,356.21,26.45,71.14,7.96,919.67,Soybean
+Indore,Sanwer,Rabi,66.67,37.46,276.11,18.46,48.62,7.96,22.65,Wheat
+Indore,Mhow,Rabi,85.33,39.65,261.33,19.64,51.57,7.69,43.32,Wheat
+Indore,Depalpur,Rabi,49.58,36.72,443.19,20.31,49.11,7.58,31.77,Gram (Chickpea)
+Indore,Sanwer,Rabi,60.82,26.79,355.49,18.78,50.67,7.79,31.87,Onion
+Indore,Depalpur,Rabi,29.2,39.39,396.98,19.95,52.94,7.33,44.27,Gram (Chickpea)
+Indore,Hatod,Rabi,99.85,36.98,292.36,20.88,46.03,7.29,33.26,Wheat
+Indore,Hatod,Rabi,47.59,37.28,292.39,21.36,45.39,8.2,40.58,Gram (Chickpea)
+Indore,Hatod,Rabi,62.45,37.71,380.58,20.81,52.03,7.52,34.87,Wheat
+Indore,Depalpur,Rabi,41.14,17.98,222.43,19.2,49.02,7.34,41.03,Onion
+Indore,Mhow,Kharif,35.34,40.0,404.83,26.76,78.92,7.82,979.32,Soybean
+Indore,Mhow,Rabi,32.93,18.37,347.2,17.78,50.51,7.3,36.8,Onion
+Indore,Indore,Kharif,93.2,18.92,443.12,29.56,80.64,7.72,877.41,Maize (Corn)
+Indore,Mhow,Rabi,40.26,37.45,214.93,16.59,58.23,7.39,41.71,Gram (Chickpea)
+Indore,Indore,Rabi,68.38,40.0,244.2,19.98,47.11,8.07,27.71,Wheat
+Indore,Depalpur,Rabi,36.13,11.18,397.54,19.84,48.18,7.88,45.66,Onion
+Indore,Sanwer,Kharif,45.51,40.0,231.88,28.83,80.59,7.89,886.66,Soybean
+Indore,Mhow,Rabi,21.63,38.7,323.9,19.3,52.82,8.01,45.37,Gram (Chickpea)
+Indore,Hatod,Kharif,97.89,27.7,157.84,29.91,75.19,7.75,894.23,Maize (Corn)
+Indore,Sanwer,Rabi,50.52,10.97,434.92,20.97,50.06,7.73,37.46,Onion
+Indore,Hatod,Rabi,99.27,36.59,237.93,20.58,50.62,7.57,38.49,Wheat
+Indore,Hatod,Kharif,52.86,38.72,280.92,28.87,71.74,7.48,883.04,Maize (Corn)
+Indore,Hatod,Rabi,100.0,40.0,302.29,18.62,48.0,7.2,32.56,Wheat
+Indore,Mhow,Rabi,76.74,37.42,170.32,18.51,52.46,8.13,48.5,Wheat
+Indore,Sanwer,Kharif,91.14,16.37,331.54,28.51,74.61,7.66,886.93,Maize (Corn)
+Indore,Hatod,Rabi,73.58,35.82,162.21,17.82,53.26,7.96,18.29,Wheat
+Indore,Mhow,Kharif,29.6,40.0,176.79,29.25,79.75,7.39,885.96,Soybean
+Indore,Indore,Kharif,62.07,24.87,392.33,29.82,79.07,7.72,922.9,Maize (Corn)
+Indore,Depalpur,Rabi,40.4,35.13,419.92,19.44,48.84,7.24,21.03,Gram (Chickpea)
+Indore,Depalpur,Rabi,57.93,36.51,338.82,21.18,47.5,7.3,35.75,Wheat
+Indore,Depalpur,Rabi,20.0,40.0,305.31,19.9,52.3,7.78,38.67,Gram (Chickpea)
+Indore,Hatod,Rabi,73.17,39.46,245.78,20.94,45.78,8.19,30.92,Wheat
+Indore,Mhow,Rabi,41.99,36.79,234.66,18.6,55.89,8.03,53.06,Gram (Chickpea)
+Indore,Hatod,Kharif,31.18,40.0,304.61,29.79,72.78,7.75,798.18,Soybean
+Indore,Hatod,Rabi,38.26,37.62,211.33,19.8,45.55,7.26,28.36,Gram (Chickpea)
+Indore,Indore,Kharif,71.52,16.84,367.15,27.15,76.43,7.61,942.02,Maize (Corn)
+Indore,Mhow,Rabi,22.57,22.33,333.15,16.4,60.17,7.46,39.7,Onion
+Indore,Mhow,Rabi,64.98,15.94,372.43,18.58,53.99,7.97,49.68,Onion
+Indore,Sanwer,Kharif,37.51,40.0,185.23,28.76,70.36,7.76,935.98,Soybean
+Indore,Hatod,Kharif,48.31,40.0,284.63,26.14,74.54,7.99,932.03,Soybean
+Indore,Depalpur,Kharif,35.98,40.0,313.48,27.32,72.83,7.57,862.19,Soybean
+Indore,Indore,Kharif,35.15,40.0,369.22,27.53,74.69,7.33,912.26,Soybean
+Indore,Depalpur,Rabi,46.9,40.0,264.96,19.62,50.95,7.28,45.39,Gram (Chickpea)
+Indore,Mhow,Kharif,31.48,40.0,285.45,27.96,81.66,7.94,940.9,Soybean
+Indore,Mhow,Kharif,97.91,25.55,367.69,29.16,77.49,7.24,932.98,Maize (Corn)
+Indore,Hatod,Rabi,63.1,11.68,252.03,20.3,49.98,7.37,37.39,Onion
+Indore,Mhow,Rabi,42.83,40.0,265.1,20.77,55.59,7.31,58.2,Gram (Chickpea)
+Indore,Indore,Rabi,33.35,36.1,355.76,19.44,58.98,8.02,50.28,Gram (Chickpea)
+Indore,Hatod,Rabi,59.64,37.42,288.32,20.04,46.54,7.55,21.2,Wheat
+Indore,Depalpur,Rabi,30.89,38.13,230.92,21.12,47.31,7.98,46.62,Gram (Chickpea)
+Indore,Indore,Kharif,49.96,40.0,234.15,26.34,75.06,7.54,923.59,Soybean
+Indore,Indore,Kharif,58.31,40.0,277.71,26.69,77.14,7.25,965.65,Soybean
+Indore,Depalpur,Rabi,32.17,40.0,419.96,20.1,46.33,7.73,25.02,Gram (Chickpea)
+Indore,Depalpur,Kharif,55.37,40.0,259.29,28.75,67.56,7.48,890.71,Soybean
+Indore,Sanwer,Kharif,42.33,40.0,286.32,29.22,75.71,7.55,967.1,Soybean
+Indore,Mhow,Rabi,24.0,40.0,224.56,19.27,54.36,7.55,43.84,Gram (Chickpea)
+Indore,Mhow,Kharif,25.85,40.0,226.21,26.93,81.6,7.7,930.7,Soybean
+Indore,Indore,Rabi,49.16,40.0,230.76,20.32,48.29,7.28,33.99,Gram (Chickpea)
+Indore,Indore,Rabi,87.06,38.13,421.67,18.13,45.77,7.98,34.19,Wheat
+Indore,Depalpur,Rabi,68.93,37.95,235.87,19.39,53.55,7.41,37.86,Onion
+Indore,Sanwer,Rabi,61.23,18.35,157.23,20.74,52.15,7.68,37.75,Onion
+Indore,Indore,Kharif,84.05,24.88,188.11,28.74,78.3,7.78,921.86,Maize (Corn)
+Indore,Mhow,Rabi,52.24,35.26,198.89,16.63,53.64,7.67,33.68,Onion
+Indore,Mhow,Rabi,44.84,36.25,309.65,19.99,53.88,7.55,34.15,Gram (Chickpea)
+Indore,Depalpur,Rabi,81.77,37.28,251.71,20.36,50.33,7.29,37.42,Wheat
+Indore,Depalpur,Kharif,59.35,40.0,174.98,28.46,77.8,7.89,875.76,Soybean
+Indore,Mhow,Kharif,59.13,17.5,378.67,24.41,78.88,7.33,913.27,Maize (Corn)
+Indore,Depalpur,Rabi,97.86,22.0,296.53,21.26,55.85,7.25,25.13,Onion
+Indore,Depalpur,Kharif,34.05,40.0,393.39,28.54,72.97,7.97,787.59,Soybean
+Indore,Depalpur,Kharif,42.97,40.0,185.39,28.65,75.89,7.51,874.03,Soybean
+Indore,Sanwer,Rabi,98.2,37.24,238.43,20.91,55.91,7.63,33.6,Wheat
+Indore,Sanwer,Kharif,91.17,39.55,229.28,26.96,80.24,7.36,931.95,Maize (Corn)
+Indore,Indore,Rabi,70.44,19.35,343.2,19.52,50.78,7.47,33.72,Onion
+Indore,Sanwer,Kharif,45.57,21.3,417.0,30.04,72.69,7.38,941.45,Maize (Corn)
+Indore,Hatod,Kharif,85.36,10.0,397.06,28.86,71.88,7.77,847.49,Maize (Corn)
+Indore,Hatod,Kharif,39.47,40.0,329.85,31.02,72.32,7.5,827.17,Soybean
+Indore,Depalpur,Rabi,68.78,26.37,196.0,18.33,54.43,7.55,37.71,Onion
+Indore,Indore,Rabi,74.16,40.0,178.09,20.45,52.14,7.55,32.83,Wheat
+Indore,Depalpur,Kharif,38.78,40.0,363.29,27.89,75.51,7.2,912.16,Soybean
+Indore,Sanwer,Rabi,46.0,39.39,288.84,17.84,46.79,7.98,32.52,Gram (Chickpea)
+Indore,Hatod,Rabi,79.77,35.21,360.07,19.29,51.11,7.23,31.58,Wheat
+Indore,Hatod,Kharif,51.54,24.84,294.49,26.93,71.23,7.7,886.13,Maize (Corn)
+Indore,Sanwer,Rabi,45.59,35.06,218.08,19.35,52.04,7.33,32.23,Gram (Chickpea)
+Indore,Hatod,Kharif,56.15,39.47,228.21,29.5,70.04,7.57,942.71,Maize (Corn)
+Indore,Indore,Kharif,52.52,19.14,261.39,28.75,81.6,7.63,897.86,Maize (Corn)
+Indore,Depalpur,Kharif,33.77,40.0,253.89,28.91,81.22,7.51,940.49,Soybean
+Indore,Mhow,Rabi,72.68,32.21,257.87,19.91,54.85,7.58,30.76,Onion
+Indore,Indore,Kharif,58.03,21.73,437.38,29.29,82.76,7.53,864.3,Maize (Corn)
+Indore,Mhow,Kharif,84.35,18.36,435.11,27.02,79.42,7.57,989.96,Maize (Corn)
+Indore,Hatod,Kharif,81.37,38.74,414.39,27.76,71.13,7.9,845.0,Maize (Corn)
+Indore,Indore,Rabi,72.79,36.74,270.14,18.6,49.74,7.32,26.27,Wheat
+Indore,Mhow,Rabi,83.17,40.0,443.96,20.14,58.87,7.81,44.46,Wheat
+Indore,Depalpur,Kharif,95.24,36.68,254.37,29.06,70.55,7.36,929.72,Maize (Corn)
+Indore,Hatod,Rabi,28.39,39.75,421.93,22.08,51.06,7.86,27.4,Gram (Chickpea)
+Indore,Mhow,Kharif,35.4,40.0,196.12,27.97,78.59,7.57,971.94,Soybean
+Indore,Indore,Rabi,66.97,38.38,399.27,20.28,54.08,8.04,22.48,Wheat
+Indore,Sanwer,Rabi,46.04,38.83,226.64,19.05,49.31,8.09,32.6,Gram (Chickpea)
+Indore,Sanwer,Kharif,89.52,27.48,338.05,27.81,75.17,7.59,884.38,Maize (Corn)
+Indore,Hatod,Kharif,24.71,40.0,405.87,26.4,72.36,7.42,894.36,Soybean
+Indore,Depalpur,Kharif,59.4,40.0,256.82,29.35,78.29,7.56,919.62,Soybean
+Indore,Depalpur,Rabi,96.67,18.55,320.01,21.39,44.49,7.46,25.45,Onion
+Indore,Depalpur,Kharif,20.88,40.0,316.26,29.11,71.63,7.85,853.91,Soybean
+Indore,Hatod,Rabi,81.71,39.27,238.1,22.53,46.99,8.17,36.6,Wheat
+Indore,Mhow,Kharif,30.34,40.0,245.68,29.74,78.03,7.91,969.75,Soybean
+Indore,Indore,Rabi,93.95,30.49,339.54,20.29,53.65,7.69,41.56,Onion
+Indore,Mhow,Rabi,53.31,31.22,333.78,18.96,53.65,7.86,46.98,Onion
+Indore,Indore,Rabi,31.73,28.2,354.11,20.3,50.27,7.75,45.05,Onion
+Indore,Indore,Kharif,40.37,40.0,281.46,29.01,78.47,7.5,981.47,Soybean
+Indore,Depalpur,Kharif,64.79,32.48,417.48,29.58,70.14,7.28,831.02,Maize (Corn)
+Indore,Sanwer,Kharif,55.02,40.0,363.82,27.57,76.54,7.38,885.49,Soybean
+Indore,Indore,Rabi,60.79,12.25,261.96,20.23,50.5,7.93,30.39,Onion
+Indore,Depalpur,Rabi,67.97,40.0,253.26,21.13,48.52,7.24,18.85,Onion
+Indore,Hatod,Kharif,80.3,36.3,185.76,27.37,73.21,7.33,848.51,Maize (Corn)
+Indore,Mhow,Rabi,68.78,38.03,273.48,21.09,51.23,7.32,26.32,Wheat
+Indore,Depalpur,Rabi,75.12,35.24,308.41,20.24,52.1,7.91,32.57,Wheat
+Indore,Sanwer,Kharif,26.71,40.0,434.54,28.9,74.08,7.6,804.36,Soybean
+Indore,Indore,Rabi,48.15,21.22,345.44,20.05,53.08,7.59,30.71,Onion
+Indore,Indore,Kharif,60.64,17.85,199.12,29.45,76.11,7.34,888.2,Maize (Corn)
+Indore,Sanwer,Rabi,85.87,36.99,330.03,19.22,49.74,7.45,17.41,Wheat
+Indore,Depalpur,Kharif,24.34,40.0,429.94,30.89,73.39,7.36,937.78,Soybean
+Indore,Hatod,Kharif,28.07,40.0,326.04,26.95,72.31,8.0,902.33,Soybean
+Indore,Sanwer,Rabi,39.53,38.36,387.45,18.29,54.42,7.89,37.51,Gram (Chickpea)
+Indore,Hatod,Kharif,52.31,36.8,181.66,27.35,68.85,7.32,911.68,Maize (Corn)
+Indore,Sanwer,Kharif,54.59,40.0,359.65,25.97,70.36,7.9,881.97,Soybean
+Indore,Indore,Kharif,45.81,40.0,381.73,26.35,78.1,7.3,922.97,Soybean
+Indore,Hatod,Rabi,88.34,32.08,331.52,19.49,46.68,7.82,36.64,Onion
+Indore,Hatod,Kharif,40.77,40.0,247.03,27.1,65.7,7.66,859.44,Soybean
+Indore,Sanwer,Kharif,23.36,40.0,360.43,26.18,74.05,7.95,941.47,Soybean
+Indore,Indore,Kharif,33.02,40.0,156.92,28.32,79.39,7.89,942.11,Soybean
+Indore,Sanwer,Kharif,71.41,10.32,281.01,28.02,74.14,7.78,909.58,Maize (Corn)
+Indore,Hatod,Rabi,70.98,40.0,209.19,21.35,51.52,8.2,36.05,Wheat
+Indore,Depalpur,Kharif,56.87,40.0,331.56,29.5,75.53,7.9,885.24,Soybean
+Indore,Depalpur,Kharif,51.25,40.0,192.6,28.4,72.16,7.62,899.09,Soybean
+Indore,Indore,Rabi,56.27,36.58,205.54,23.04,51.38,7.3,36.95,Wheat
+Indore,Hatod,Rabi,68.4,30.01,341.6,20.66,50.39,7.45,31.58,Onion
+Indore,Indore,Rabi,43.25,36.35,166.3,20.12,51.54,8.12,43.66,Gram (Chickpea)
+Indore,Hatod,Rabi,32.43,37.75,404.79,20.6,50.11,7.82,21.48,Gram (Chickpea)
+Indore,Indore,Kharif,45.35,40.0,237.35,28.26,82.82,7.31,888.01,Soybean
+Indore,Sanwer,Rabi,40.96,36.2,349.23,20.6,50.8,8.1,14.32,Gram (Chickpea)
+Indore,Mhow,Rabi,95.06,36.55,289.65,18.01,56.03,8.06,52.06,Wheat
+Indore,Indore,Rabi,30.57,31.32,217.04,20.3,53.82,7.37,54.45,Onion
+Indore,Depalpur,Kharif,42.43,40.0,367.95,29.06,73.72,7.39,914.76,Soybean
+Indore,Sanwer,Kharif,96.67,23.34,217.67,27.83,74.08,7.89,951.61,Maize (Corn)
+Indore,Indore,Rabi,32.6,40.0,327.16,19.01,52.49,7.53,29.2,Gram (Chickpea)
+Indore,Mhow,Rabi,83.23,11.18,171.42,20.04,60.13,7.99,41.16,Onion
+Indore,Sanwer,Rabi,35.04,38.24,181.4,19.02,50.05,7.73,39.2,Gram (Chickpea)
+Indore,Sanwer,Kharif,46.36,40.0,306.97,27.39,72.95,7.93,841.06,Soybean
+Indore,Depalpur,Rabi,73.71,13.64,379.38,20.16,46.92,7.54,40.97,Onion
+Indore,Sanwer,Rabi,43.99,25.05,426.75,18.74,52.58,7.28,28.9,Onion
+Indore,Mhow,Kharif,84.28,18.83,230.76,27.52,79.28,7.46,1026.01,Maize (Corn)
+Indore,Depalpur,Rabi,72.2,39.66,200.32,18.47,48.87,7.75,50.63,Onion
+Indore,Mhow,Kharif,49.14,40.0,438.41,29.86,78.43,7.41,972.72,Soybean
+Indore,Mhow,Kharif,72.06,13.11,150.09,28.53,80.89,7.45,971.27,Maize (Corn)
+Indore,Hatod,Rabi,25.04,38.32,163.58,22.41,51.84,7.42,33.58,Gram (Chickpea)
+Indore,Sanwer,Kharif,90.01,15.09,183.05,25.41,75.59,7.55,976.34,Maize (Corn)
+Indore,Mhow,Rabi,78.76,17.23,243.77,17.66,56.79,7.61,37.28,Onion
+Indore,Mhow,Rabi,95.09,38.51,421.41,17.88,55.45,8.12,42.79,Wheat
+Indore,Mhow,Kharif,36.81,40.0,392.87,27.75,81.27,7.85,978.57,Soybean
+Indore,Sanwer,Rabi,27.15,36.09,389.9,20.78,51.47,7.64,32.59,Gram (Chickpea)
+Indore,Depalpur,Kharif,47.98,40.0,186.04,26.7,72.82,7.84,824.74,Soybean
+Indore,Mhow,Rabi,74.97,36.29,309.22,19.69,52.77,7.45,33.74,Wheat
+Indore,Depalpur,Rabi,65.45,37.04,336.01,17.83,51.93,7.53,25.5,Wheat
+Indore,Indore,Kharif,35.18,40.0,388.5,30.1,76.92,7.2,941.03,Soybean
+Indore,Depalpur,Kharif,63.8,40.0,335.98,29.71,69.88,7.34,903.4,Maize (Corn)
+Indore,Hatod,Kharif,72.08,20.79,283.84,29.27,72.31,7.27,935.4,Maize (Corn)
+Indore,Mhow,Kharif,81.28,28.52,416.36,28.77,77.74,7.54,954.89,Maize (Corn)
+Indore,Mhow,Rabi,38.81,35.7,332.35,20.65,52.88,7.52,39.62,Gram (Chickpea)
+Indore,Depalpur,Kharif,39.34,40.0,348.84,27.36,71.59,7.76,864.31,Soybean
+Indore,Sanwer,Kharif,55.49,40.0,336.1,27.21,73.79,7.91,866.4,Soybean
+Indore,Depalpur,Rabi,25.48,36.47,357.2,20.06,51.12,7.29,42.16,Gram (Chickpea)
+Indore,Sanwer,Rabi,63.78,35.48,250.35,18.79,52.01,8.02,25.76,Wheat
+Indore,Mhow,Kharif,66.48,23.53,290.55,28.79,81.61,7.49,1014.41,Maize (Corn)
+Indore,Depalpur,Kharif,42.72,40.0,447.93,29.51,77.17,7.65,867.97,Soybean
+Indore,Indore,Rabi,89.95,22.15,367.07,19.59,52.68,7.81,35.04,Onion
+Indore,Mhow,Kharif,78.91,30.09,355.26,26.45,80.17,7.49,965.11,Maize (Corn)
+Indore,Indore,Rabi,32.46,37.79,203.39,16.97,51.22,7.36,25.95,Gram (Chickpea)
+Indore,Mhow,Kharif,54.5,40.0,393.1,26.23,79.59,7.5,982.57,Soybean
+Indore,Hatod,Rabi,27.42,38.14,180.58,19.2,49.72,7.78,22.44,Gram (Chickpea)
+Indore,Mhow,Kharif,79.32,14.87,367.2,28.08,78.26,7.27,919.66,Maize (Corn)
+Indore,Hatod,Rabi,92.24,13.93,321.46,18.96,48.44,7.47,32.48,Onion
+Indore,Hatod,Rabi,81.36,39.23,165.94,21.75,48.08,7.65,15.2,Wheat
+Indore,Sanwer,Kharif,74.56,19.64,359.69,27.44,74.19,7.75,965.31,Maize (Corn)
+Indore,Indore,Rabi,57.72,35.59,431.33,19.99,50.53,7.4,23.73,Wheat
+Indore,Hatod,Rabi,39.36,36.62,224.01,19.95,43.87,7.85,17.93,Gram (Chickpea)
+Indore,Mhow,Rabi,44.05,30.28,321.05,17.61,60.73,7.62,31.76,Onion
+Indore,Indore,Rabi,46.91,35.51,436.97,19.56,53.08,7.6,41.88,Gram (Chickpea)
+Indore,Hatod,Rabi,23.48,22.63,314.34,20.57,50.66,7.77,35.44,Onion
+Indore,Indore,Kharif,68.77,26.81,297.39,27.04,71.95,7.38,792.55,Maize (Corn)
+Indore,Mhow,Kharif,38.02,40.0,164.89,27.64,81.49,7.82,952.61,Soybean
+Indore,Indore,Kharif,57.17,26.45,260.57,29.71,76.29,7.38,903.9,Maize (Corn)
+Indore,Mhow,Kharif,50.05,25.59,340.86,28.13,82.55,7.83,953.82,Maize (Corn)
+Indore,Depalpur,Rabi,32.93,29.41,355.98,22.11,48.16,7.93,25.77,Onion
+Indore,Hatod,Rabi,95.99,38.47,400.38,19.08,50.65,7.49,31.35,Wheat
+Indore,Mhow,Rabi,74.53,31.41,425.67,18.61,58.35,7.26,43.49,Onion
+Indore,Mhow,Kharif,45.92,40.0,348.26,26.45,78.28,8.0,965.7,Soybean
+Indore,Sanwer,Kharif,45.73,40.0,371.58,27.75,75.2,7.49,918.02,Soybean
+Indore,Mhow,Rabi,33.48,19.93,244.45,18.2,50.1,7.36,38.6,Onion
+Indore,Sanwer,Rabi,92.97,35.49,430.0,18.56,51.14,7.88,45.05,Wheat
+Indore,Indore,Rabi,86.62,23.53,322.02,20.07,55.22,7.34,39.79,Onion
+Indore,Depalpur,Rabi,62.19,38.62,220.3,19.17,49.63,8.06,35.58,Wheat
+Indore,Hatod,Kharif,88.42,20.99,154.79,27.63,74.08,7.76,939.21,Maize (Corn)
+Indore,Sanwer,Rabi,69.77,14.89,420.85,19.42,52.12,7.3,33.87,Onion
+Indore,Sanwer,Rabi,48.57,37.11,316.43,19.62,51.86,7.51,35.71,Gram (Chickpea)
+Indore,Indore,Rabi,36.81,36.86,413.48,17.36,50.72,7.38,27.76,Gram (Chickpea)
+Indore,Indore,Kharif,42.49,40.0,338.78,28.74,73.73,7.47,958.11,Soybean
+Indore,Sanwer,Rabi,20.0,40.0,392.37,20.91,52.4,7.43,48.48,Gram (Chickpea)
+Indore,Mhow,Rabi,27.83,36.61,410.98,19.69,53.52,7.56,38.42,Gram (Chickpea)
+Indore,Hatod,Kharif,57.07,40.0,156.57,26.68,74.93,7.43,864.1,Soybean
+Indore,Sanwer,Rabi,77.59,26.87,335.57,17.96,52.66,7.6,34.29,Onion
+Indore,Mhow,Rabi,70.2,35.22,179.64,17.4,55.08,7.97,40.38,Wheat
+Indore,Depalpur,Rabi,67.08,35.6,230.62,20.54,53.27,7.62,41.44,Wheat
+Indore,Mhow,Kharif,46.43,40.0,169.85,27.9,82.98,7.71,939.74,Soybean
+Indore,Depalpur,Rabi,100.0,38.99,328.76,18.62,51.75,7.98,27.5,Wheat
+Indore,Hatod,Kharif,24.15,40.0,406.01,26.26,75.34,7.76,868.84,Soybean
+Indore,Indore,Kharif,39.63,40.0,322.11,29.13,80.4,7.34,900.33,Soybean
+Indore,Hatod,Kharif,39.42,40.0,172.95,28.79,72.29,7.33,902.26,Soybean
+Indore,Indore,Rabi,83.53,38.54,446.39,18.28,50.95,7.8,35.21,Wheat
+Indore,Hatod,Rabi,48.97,38.66,408.64,18.45,51.93,7.27,31.05,Gram (Chickpea)
+Indore,Depalpur,Kharif,45.13,40.0,432.07,28.96,79.44,7.96,862.55,Soybean
+Indore,Hatod,Kharif,62.58,22.36,421.57,26.99,67.54,7.82,954.08,Maize (Corn)
+Indore,Depalpur,Rabi,70.3,40.0,192.15,22.4,50.13,7.36,34.63,Wheat
+Indore,Indore,Rabi,73.13,37.87,418.93,18.86,50.54,7.24,21.58,Wheat
+Indore,Hatod,Kharif,31.72,40.0,158.6,29.81,75.54,7.73,931.3,Soybean
+Indore,Depalpur,Kharif,84.67,37.86,374.55,28.94,70.25,7.67,944.51,Maize (Corn)
+Indore,Indore,Kharif,33.68,40.0,204.26,29.21,78.71,7.42,905.33,Soybean
+Indore,Indore,Kharif,87.96,25.93,176.09,27.63,78.18,7.65,925.57,Maize (Corn)
+Indore,Indore,Rabi,28.75,39.55,326.62,20.91,47.3,8.15,27.88,Gram (Chickpea)
+Indore,Sanwer,Kharif,25.81,40.0,338.4,27.98,77.51,7.51,878.67,Soybean
+Indore,Hatod,Kharif,78.46,33.94,443.88,28.31,71.09,7.56,903.35,Maize (Corn)
+Indore,Depalpur,Rabi,33.18,40.0,330.94,19.47,53.38,7.34,24.97,Onion
+Indore,Depalpur,Rabi,47.29,37.38,423.85,20.64,49.64,7.86,34.96,Gram (Chickpea)
+Indore,Mhow,Rabi,37.56,40.0,252.84,17.5,54.52,7.54,38.28,Gram (Chickpea)
+Indore,Sanwer,Rabi,25.85,37.69,375.02,17.87,49.59,7.77,42.97,Gram (Chickpea)
+Indore,Hatod,Rabi,30.26,37.68,250.84,21.06,54.47,7.42,35.58,Gram (Chickpea)
+Indore,Hatod,Kharif,49.09,40.0,241.11,26.69,69.76,7.6,855.55,Soybean
+Indore,Depalpur,Rabi,31.35,38.06,245.63,21.35,52.98,7.8,32.26,Gram (Chickpea)
+Indore,Hatod,Rabi,28.7,27.44,181.17,19.59,48.5,7.99,30.63,Onion
+Indore,Mhow,Rabi,56.89,11.75,430.08,18.45,50.57,7.43,44.06,Onion
+Indore,Hatod,Rabi,76.74,38.56,272.31,18.33,52.8,8.17,34.17,Wheat
+Indore,Hatod,Rabi,86.74,38.27,320.46,20.42,48.23,8.1,37.58,Wheat
+Indore,Mhow,Kharif,76.42,25.76,322.45,27.58,84.11,7.46,1013.97,Maize (Corn)
+Indore,Hatod,Rabi,73.12,36.68,392.98,20.75,48.74,7.32,12.03,Wheat
+Indore,Hatod,Kharif,41.47,40.0,328.74,29.42,73.8,7.65,780.04,Soybean
+Indore,Mhow,Rabi,24.88,37.89,152.79,19.99,57.07,8.11,43.62,Gram (Chickpea)
+Indore,Depalpur,Rabi,59.29,35.9,354.68,20.25,53.69,7.59,30.16,Wheat
+Indore,Hatod,Rabi,27.72,37.58,356.39,19.88,49.28,7.59,28.5,Gram (Chickpea)
+Indore,Mhow,Rabi,40.55,38.72,248.75,18.5,54.46,7.69,26.6,Gram (Chickpea)
+Indore,Sanwer,Rabi,33.74,37.53,197.68,21.27,45.02,8.2,39.26,Gram (Chickpea)
+Indore,Mhow,Rabi,82.89,36.75,260.06,19.0,59.28,7.34,52.57,Wheat
+Indore,Depalpur,Rabi,24.54,36.52,442.96,18.95,52.27,7.56,51.5,Gram (Chickpea)
+Indore,Hatod,Rabi,20.0,35.54,406.98,19.8,48.03,8.06,25.96,Gram (Chickpea)
+Indore,Sanwer,Kharif,52.46,26.25,371.63,28.98,68.77,7.48,879.41,Maize (Corn)
+Indore,Mhow,Kharif,87.26,15.09,346.48,27.57,76.52,7.57,878.3,Maize (Corn)
+Indore,Indore,Kharif,39.69,40.0,237.32,28.33,72.63,7.69,932.04,Soybean
+Indore,Indore,Kharif,34.28,40.0,360.89,28.42,79.48,7.56,865.37,Soybean
+Indore,Mhow,Rabi,86.05,38.74,415.75,17.85,56.52,7.21,47.88,Wheat
+Indore,Sanwer,Rabi,78.96,37.74,426.73,19.29,47.72,7.77,29.76,Wheat
+Indore,Sanwer,Kharif,96.88,25.25,314.72,27.0,79.07,7.5,942.66,Maize (Corn)
+Indore,Depalpur,Rabi,77.05,32.0,246.23,18.8,47.74,7.89,40.43,Onion
+Indore,Indore,Kharif,28.24,40.0,315.45,26.99,76.38,7.61,933.97,Soybean
+Indore,Sanwer,Rabi,96.18,18.37,152.26,20.29,50.51,7.78,30.53,Onion
+Indore,Depalpur,Rabi,41.6,38.64,419.76,18.71,47.5,7.26,29.69,Gram (Chickpea)
+Indore,Sanwer,Rabi,29.93,37.29,279.23,17.78,47.86,7.5,36.17,Onion
+Indore,Indore,Rabi,59.81,25.51,195.02,21.27,53.01,7.85,33.26,Onion
+Indore,Depalpur,Rabi,32.65,11.35,187.56,19.83,47.47,7.7,49.56,Onion
+Indore,Hatod,Rabi,48.64,31.94,283.38,20.71,47.96,7.89,29.4,Onion
+Indore,Depalpur,Rabi,28.3,34.9,222.34,21.9,48.55,7.2,23.36,Onion
+Indore,Sanwer,Rabi,75.32,38.32,310.6,20.09,46.97,7.45,18.22,Wheat
+Indore,Hatod,Kharif,46.71,40.0,207.26,28.69,75.31,7.86,870.58,Soybean
+Indore,Mhow,Kharif,42.79,40.0,162.61,27.2,82.03,7.21,971.93,Soybean
+Indore,Mhow,Kharif,26.31,40.0,437.84,26.3,86.26,7.46,885.52,Soybean
+Indore,Depalpur,Kharif,85.23,38.97,238.75,29.14,75.91,7.42,858.62,Maize (Corn)
+Indore,Sanwer,Rabi,89.4,29.33,217.08,19.58,51.09,7.94,51.23,Onion
+Indore,Sanwer,Rabi,56.74,22.81,272.64,20.33,47.22,7.31,31.52,Onion
+Indore,Mhow,Kharif,51.89,40.0,160.06,26.1,80.29,7.99,978.67,Soybean
+Indore,Depalpur,Kharif,57.82,30.64,395.37,27.46,73.37,7.26,945.47,Maize (Corn)
+Indore,Hatod,Rabi,23.35,17.59,276.02,20.59,50.46,7.89,22.01,Onion
+Indore,Indore,Rabi,76.25,33.9,386.15,19.69,53.26,7.55,31.09,Onion
+Indore,Mhow,Rabi,59.02,36.51,294.81,20.72,56.92,7.66,36.82,Wheat
+Indore,Depalpur,Rabi,89.63,13.47,270.33,18.0,52.3,7.77,38.8,Onion
+Indore,Indore,Rabi,69.2,40.0,366.21,18.26,43.94,7.95,44.74,Wheat
+Indore,Indore,Kharif,20.36,40.0,309.08,29.62,79.0,7.2,820.97,Soybean
+Indore,Sanwer,Rabi,93.21,40.0,162.99,20.36,47.06,7.91,32.11,Wheat
+Indore,Indore,Rabi,89.67,22.2,217.52,19.55,51.06,7.48,44.86,Onion
+Indore,Indore,Rabi,22.43,38.5,397.06,21.21,55.37,7.9,43.2,Gram (Chickpea)
+Indore,Indore,Kharif,52.9,23.37,302.71,28.16,76.3,7.83,898.79,Maize (Corn)
+Indore,Sanwer,Rabi,21.06,39.7,290.14,19.43,40.61,8.05,28.57,Gram (Chickpea)
+Indore,Hatod,Kharif,45.09,28.26,389.6,28.34,73.71,7.44,704.02,Maize (Corn)
+Indore,Depalpur,Rabi,83.92,37.15,178.17,20.38,55.95,7.93,35.04,Wheat
+Indore,Sanwer,Rabi,35.5,20.39,261.41,18.13,50.38,7.56,24.12,Onion
+Indore,Mhow,Kharif,35.61,40.0,436.18,29.3,79.78,7.46,1056.59,Soybean
+Indore,Indore,Kharif,45.13,26.51,410.96,30.3,77.01,7.56,910.47,Maize (Corn)
+Indore,Sanwer,Rabi,43.59,21.37,419.61,19.14,47.46,7.28,26.78,Onion
+Indore,Mhow,Rabi,74.27,35.17,283.69,19.83,55.32,7.57,47.39,Wheat
+Indore,Mhow,Rabi,96.1,17.17,418.41,17.7,54.01,7.78,53.33,Onion
+Indore,Sanwer,Kharif,20.0,40.0,170.42,28.9,74.09,7.2,906.91,Soybean
+Indore,Hatod,Kharif,47.24,40.0,297.12,26.91,74.16,7.51,819.28,Soybean
+Indore,Sanwer,Rabi,84.9,37.93,428.8,17.9,49.15,7.62,44.54,Wheat
+Indore,Hatod,Rabi,49.67,38.34,408.85,20.67,48.82,8.12,39.76,Gram (Chickpea)
+Indore,Sanwer,Rabi,33.18,38.64,364.94,19.03,43.71,8.12,44.21,Gram (Chickpea)
+Indore,Sanwer,Kharif,57.34,40.0,172.54,26.76,77.11,7.41,920.39,Soybean
+Indore,Depalpur,Rabi,75.99,35.69,225.7,21.58,48.11,8.12,48.03,Wheat
+Indore,Indore,Rabi,96.04,38.42,190.74,19.56,53.11,7.39,33.17,Wheat
+Indore,Indore,Rabi,80.38,40.0,322.98,18.84,56.39,7.27,38.41,Wheat
+Indore,Hatod,Rabi,48.5,35.28,270.42,19.87,51.86,7.35,27.6,Gram (Chickpea)
+Indore,Indore,Kharif,39.25,40.0,359.51,28.73,78.35,7.37,847.14,Soybean
+Indore,Indore,Rabi,42.81,34.87,205.45,17.68,52.97,7.75,36.82,Onion
+Indore,Hatod,Rabi,61.62,38.46,256.17,20.85,46.45,7.2,27.19,Wheat
+Indore,Mhow,Rabi,78.02,35.73,156.65,18.5,62.28,7.55,44.95,Wheat
+Indore,Mhow,Rabi,94.28,39.67,360.74,16.47,56.15,7.87,40.61,Wheat
+Indore,Hatod,Rabi,95.14,18.95,422.54,20.66,49.53,7.8,15.25,Onion
+Indore,Hatod,Kharif,55.63,19.97,152.9,26.89,75.75,7.34,965.5,Maize (Corn)
+Indore,Sanwer,Rabi,90.07,35.13,366.9,19.02,46.91,7.5,31.01,Onion
+Indore,Hatod,Rabi,89.41,35.54,357.5,20.26,48.05,8.01,37.57,Wheat
+Indore,Mhow,Kharif,51.01,20.92,450.0,26.09,80.55,7.62,980.37,Maize (Corn)
+Indore,Mhow,Rabi,32.73,40.0,329.72,19.5,50.8,7.35,44.94,Onion
+Indore,Mhow,Rabi,96.6,39.46,305.88,18.01,47.81,7.31,49.17,Wheat
+Indore,Mhow,Kharif,75.34,35.02,175.96,30.41,76.98,7.75,905.36,Maize (Corn)
+Indore,Mhow,Rabi,86.62,39.63,174.53,20.55,53.53,7.93,32.7,Wheat
+Indore,Indore,Kharif,27.74,40.0,442.9,28.48,75.28,7.5,922.71,Soybean
+Indore,Hatod,Rabi,42.34,35.25,432.28,20.35,47.16,8.2,29.4,Gram (Chickpea)
+Indore,Indore,Rabi,59.53,38.15,428.73,16.48,60.14,7.29,50.02,Wheat
+Indore,Indore,Kharif,58.58,40.0,385.01,29.06,80.11,7.77,987.95,Soybean
+Indore,Mhow,Rabi,91.4,36.44,416.24,16.66,56.51,8.16,29.96,Wheat
+Indore,Depalpur,Rabi,44.31,39.34,398.43,20.63,50.58,7.8,29.46,Gram (Chickpea)
+Indore,Depalpur,Rabi,24.22,20.75,158.23,19.67,50.58,7.99,40.92,Onion
+Indore,Hatod,Rabi,35.18,36.65,290.17,18.51,52.85,7.49,50.84,Gram (Chickpea)
+Indore,Indore,Rabi,22.06,37.31,440.04,19.01,55.57,8.01,28.63,Gram (Chickpea)
+Indore,Sanwer,Kharif,78.86,28.73,196.22,30.01,72.95,7.61,926.05,Maize (Corn)
+Indore,Hatod,Kharif,59.88,40.0,154.55,27.58,67.76,7.83,801.23,Soybean
+Indore,Mhow,Rabi,39.71,38.75,414.69,19.66,57.05,7.78,49.57,Gram (Chickpea)
+Indore,Sanwer,Rabi,65.78,36.41,315.31,19.04,51.4,7.4,27.64,Wheat
+Indore,Mhow,Rabi,45.83,36.96,202.68,19.4,56.07,7.96,43.99,Gram (Chickpea)
+Indore,Hatod,Rabi,53.31,11.13,283.91,19.93,50.9,7.29,24.41,Onion
+Indore,Hatod,Rabi,23.93,14.21,372.16,20.28,45.99,7.78,29.85,Onion
+Indore,Depalpur,Kharif,99.98,18.84,205.41,28.7,77.9,7.65,910.04,Maize (Corn)
+Indore,Sanwer,Kharif,44.07,40.0,179.08,27.34,72.85,7.71,847.41,Soybean
+Indore,Hatod,Kharif,54.03,24.47,244.71,29.05,75.63,7.71,839.92,Maize (Corn)
+Indore,Mhow,Rabi,27.44,36.01,402.58,15.72,58.02,7.42,24.77,Gram (Chickpea)
+Indore,Hatod,Kharif,44.86,40.0,184.45,27.89,68.92,7.73,897.93,Soybean
+Indore,Sanwer,Rabi,60.6,29.49,382.53,20.38,52.45,7.63,39.63,Onion
+Indore,Sanwer,Rabi,31.31,38.51,284.84,20.35,53.14,7.78,26.36,Gram (Chickpea)
+Indore,Sanwer,Kharif,78.55,20.31,379.95,27.87,70.51,7.2,951.35,Maize (Corn)
+Indore,Depalpur,Rabi,40.87,36.86,426.8,21.33,47.62,7.39,30.95,Gram (Chickpea)
+Indore,Indore,Kharif,96.95,18.45,279.67,28.18,76.71,7.83,946.48,Maize (Corn)
+Indore,Sanwer,Rabi,43.61,40.0,330.64,21.43,50.46,7.39,33.82,Gram (Chickpea)
+Indore,Mhow,Kharif,35.6,40.0,277.33,27.73,79.55,7.41,970.74,Soybean
+Indore,Indore,Kharif,48.99,13.07,375.4,28.97,74.41,7.29,940.01,Maize (Corn)
+Indore,Mhow,Kharif,51.62,38.62,372.38,27.36,79.4,7.58,976.54,Maize (Corn)
+Indore,Depalpur,Kharif,37.26,40.0,410.27,28.91,75.25,7.22,835.4,Soybean
+Indore,Hatod,Kharif,50.35,22.11,324.85,29.28,71.32,7.41,849.29,Maize (Corn)
+Indore,Indore,Rabi,43.57,10.37,401.18,19.41,52.47,7.53,44.6,Onion
+Indore,Indore,Rabi,31.95,39.33,363.89,20.98,49.13,7.33,33.03,Gram (Chickpea)
+Indore,Mhow,Kharif,38.95,40.0,160.07,26.97,81.85,8.0,970.81,Soybean
+Indore,Depalpur,Kharif,33.42,40.0,402.66,27.91,74.45,7.79,950.09,Soybean
+Indore,Sanwer,Rabi,83.88,35.21,150.41,18.82,52.18,7.8,23.24,Wheat
+Indore,Indore,Kharif,56.14,40.0,178.96,30.34,76.51,7.41,918.9,Soybean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

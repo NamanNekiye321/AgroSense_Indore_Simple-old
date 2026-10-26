@@ -1,0 +1,201 @@
+<mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1020" pageHeight="1120" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+
+    <!-- White background -->
+    <mxCell id="bg" value="" style="fillColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+      <mxGeometry x="0" y="0" width="1020" height="1120" as="geometry" />
+    </mxCell>
+
+    <!-- Document Header / Section Title -->
+    <mxCell id="sec_title" value="5.3 Use Case Diagram — AgroSense Indore Platform" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="40" y="25" width="550" height="25" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  SYSTEM BOUNDARY                                             -->
+    <!-- ============================================================ -->
+    <mxCell id="sys_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.8;dashed=0;" vertex="1" parent="1">
+      <mxGeometry x="220" y="70" width="570" height="940" as="geometry" />
+    </mxCell>
+    <mxCell id="sys_label" value="AgroSense Indore System Boundary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;fontSize=13;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="240" y="80" width="530" height="25" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  ACTORS                                                      -->
+    <!-- ============================================================ -->
+
+    <!-- Primary Actor: Farmer / User (Left) -->
+    <mxCell id="act_farmer" value="Farmer / User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=12;fontStyle=1;fontColor=#000000;strokeColor=#000000;strokeWidth=1.5;fillColor=#ffffff;" vertex="1" parent="1">
+      <mxGeometry x="55" y="320" width="60" height="110" as="geometry" />
+    </mxCell>
+
+    <!-- Secondary Actor: Extension Officer / Agronomist (Left Bottom) -->
+    <mxCell id="act_officer" value="Agriculture Extension&#xa;Officer / Agronomist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontStyle=1;fontColor=#000000;strokeColor=#000000;strokeWidth=1.5;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+      <mxGeometry x="50" y="760" width="60" height="110" as="geometry" />
+    </mxCell>
+
+    <!-- System Actor: Python ML Engine (Right Top) -->
+    <mxCell id="act_ml" value="&lt;&lt;System&gt;&gt;&#xa;&lt;b&gt;Python ML Engine&lt;/b&gt;&#xa;(Random Forest&#xa;Inference Service)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=11;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="840" y="325" width="145" height="75" as="geometry" />
+    </mxCell>
+
+    <!-- System Actor: MongoDB Atlas (Right Bottom) -->
+    <mxCell id="act_mongo" value="&lt;&lt;Database&gt;&gt;&#xa;&lt;b&gt;MongoDB Atlas&lt;/b&gt;&#xa;(Cloud Persistence&#xa;Storage)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=11;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="845" y="560" width="135" height="85" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  USE CASES (Ovals)                                           -->
+    <!-- ============================================================ -->
+
+    <!-- UC1: Select Tehsil & Auto-fill -->
+    <mxCell id="uc_1" value="UC-01: Select Indore Tehsil&#xa;&amp; Auto-fill Climate Defaults" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="125" width="220" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC2: Input Soil Test Parameters -->
+    <mxCell id="uc_2" value="UC-02: Enter Soil Test&#xa;Values (N, P, K, pH)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="215" width="220" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC3: Request Crop Recommendation (Core) -->
+    <mxCell id="uc_3" value="UC-03: Request AI Crop&#xa;Recommendation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.8;fontFamily=Helvetica;fontSize=11;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="325" width="220" height="56" as="geometry" />
+    </mxCell>
+
+    <!-- UC4: Validate Inputs (<<include>>) -->
+    <mxCell id="uc_4" value="UC-04: Validate Soil &amp;&#xa;Climate Input Ranges" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="545" y="200" width="210" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- UC5: Run ML Model Inference (<<include>>) -->
+    <mxCell id="uc_5" value="UC-05: Execute Random Forest&#xa;Inference (7-Feature Vector)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="545" y="315" width="210" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC6: Calculate Fertilizer Prescription (<<include>>) -->
+    <mxCell id="uc_6" value="UC-06: Calculate Tailored&#xa;Fertilizer Plan (Urea/DAP/MOP)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="545" y="420" width="210" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC7: Save Recommendation Record (<<include>>) -->
+    <mxCell id="uc_7" value="UC-07: Persist Consultation&#xa;Record to Database" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="545" y="530" width="210" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC8: View Crop Ranking & Confidence -->
+    <mxCell id="uc_8" value="UC-08: View Top-3 Ranked Crops,&#xa;Confidence % &amp; Indore MSP" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="445" width="220" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC9: View Consultation History -->
+    <mxCell id="uc_9" value="UC-09: View Advisory History&#xa;&amp; Past Consultations" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="565" width="220" height="52" as="geometry" />
+    </mxCell>
+
+    <!-- UC10: Switch Language -->
+    <mxCell id="uc_10" value="UC-10: Toggle Bilingual Interface&#xa;(English / हिंदी)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="685" width="220" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- UC11: Toggle Dark/Light Mode -->
+    <mxCell id="uc_11" value="UC-11: Toggle Visual Theme&#xa;(Dark / Light Mode)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="250" y="785" width="220" height="50" as="geometry" />
+    </mxCell>
+
+    <!-- UC12: Review Regional Advisory Analytics -->
+    <mxCell id="uc_12" value="UC-12: Query Regional Crop Trends&#xa;&amp; Tehsil Advisory Statistics" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="1">
+      <mxGeometry x="375" y="890" width="240" height="54" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  ACTOR TO USE CASE ASSOCIATIONS (Solid Lines)                -->
+    <!-- ============================================================ -->
+
+    <!-- Farmer -> UC1 -->
+    <mxCell id="rel_f_uc1" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_1" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC2 -->
+    <mxCell id="rel_f_uc2" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_2" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC3 -->
+    <mxCell id="rel_f_uc3" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;" edge="1" source="act_farmer" target="uc_3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC8 -->
+    <mxCell id="rel_f_uc8" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_8" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC9 -->
+    <mxCell id="rel_f_uc9" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_9" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC10 -->
+    <mxCell id="rel_f_uc10" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_10" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Farmer -> UC11 -->
+    <mxCell id="rel_f_uc11" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_farmer" target="uc_11" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Officer -> UC9 -->
+    <mxCell id="rel_off_uc9" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_officer" target="uc_9" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- Officer -> UC12 -->
+    <mxCell id="rel_off_uc12" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;" edge="1" source="act_officer" target="uc_12" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+    <!-- ============================================================ -->
+    <!--  <<include>> DEPENDENCY ARROWS (Dashed with open arrow)      -->
+    <!-- ============================================================ -->
+
+    <!-- UC3 <<include>> UC4 (Validate Inputs) -->
+    <mxCell id="inc_3_4" value="&lt;&lt;include&gt;&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=#ffffff;endArrow=open;dashed=1;endSize=8;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" edge="1" source="uc_3" target="uc_4" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- UC3 <<include>> UC5 (Run Model Inference) -->
+    <mxCell id="inc_3_5" value="&lt;&lt;include&gt;&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=#ffffff;endArrow=open;dashed=1;endSize=8;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" edge="1" source="uc_3" target="uc_5" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- UC3 <<include>> UC6 (Calculate Fertilizer) -->
+    <mxCell id="inc_3_6" value="&lt;&lt;include&gt;&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=#ffffff;endArrow=open;dashed=1;endSize=8;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" edge="1" source="uc_3" target="uc_6" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- UC3 <<include>> UC7 (Persist to DB) -->
+    <mxCell id="inc_3_7" value="&lt;&lt;include&gt;&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=#ffffff;endArrow=open;dashed=1;endSize=8;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" edge="1" source="uc_3" target="uc_7" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  SYSTEM ACTOR ASSOCIATIONS                                   -->
+    <!-- ============================================================ -->
+
+    <!-- UC5 -> Python ML Engine -->
+    <mxCell id="rel_uc5_ml" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.3;" edge="1" source="uc_5" target="act_ml" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- UC7 -> MongoDB Atlas -->
+    <mxCell id="rel_uc7_mongo" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.3;" edge="1" source="uc_7" target="act_mongo" parent="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+
+    <!-- UC9 -> MongoDB Atlas (History Query) -->
+    <mxCell id="rel_uc9_mongo" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.2;dashed=1;" edge="1" source="uc_9" target="act_mongo" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="500" y="605" />
+          <mxPoint x="845" y="605" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  BOTTOM CAPTION                                              -->
+    <!-- ============================================================ -->
+    <mxCell id="caption_fig" value="Figure 5.3 : Use Case Diagram for AgroSense Indore Platform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="210" y="1040" width="600" height="30" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>

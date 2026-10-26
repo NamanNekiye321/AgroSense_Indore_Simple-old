@@ -1,0 +1,160 @@
+<mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="950" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+
+    <!-- Section Header / Title -->
+    <mxCell id="title" value="System Architecture Diagram — AgroSense Indore (3-Tier Structure)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="50" y="30" width="600" height="30" as="geometry" />
+    </mxCell>
+
+    <!-- ============================================================ -->
+    <!--  TIER 1: PRESENTATION LAYER (CLIENT TIER)                    -->
+    <!-- ============================================================ -->
+    <mxCell id="tier1_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="80" width="1000" height="150" as="geometry" />
+    </mxCell>
+    <mxCell id="tier1_label" value="TIER 1: PRESENTATION LAYER (Client Browser / Responsive Mobile &amp; Desktop Web)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="65" y="85" width="600" height="20" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ui_tehsil" value="Indore Tehsil Selector&#xa;(Sanwer, Indore, Depalpur,&#xa;Mhow, Hatod Baselines)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="70" y="115" width="165" height="95" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ui_form" value="Farmer Input Form &amp; Sliders&#xa;• Farmer Name, Village, Phone&#xa;• Land Area (Acres) Input&#xa;• N, P, K Sliders (kg/ha)&#xa;• pH (4-10) &amp; Weather (T, H, R)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="260" y="115" width="220" height="95" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ui_lang" value="Bilingual Controller&#xa;• English / हिंदी Toggle&#xa;• Dark / Light Theme&#xa;• LocalStorage Sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="505" y="115" width="150" height="95" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ui_results" value="Advisory Results Panel&#xa;• Top-3 Crop Cards &amp; Conf. %&#xa;• Govt MSP Benchmarks&#xa;• Fertilizer Plan (Urea/DAP/MOP)&#xa;• Land Area Total Dosage (kg)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="680" y="115" width="210" height="95" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ui_ledger" value="History Ledger&#xa;• Live MongoDB Table&#xa;• 1-Click Reload" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="915" y="115" width="120" height="95" as="geometry" />
+    </mxCell>
+
+
+    <!-- ============================================================ -->
+    <!--  PROTOCOL CONNECTOR (Tier 1 <-> Tier 2)                      -->
+    <!-- ============================================================ -->
+    <mxCell id="conn_t1_t2" value="HTTP / HTTPS REST API (JSON Payloads)&#xa;POST /api/recommend  |  GET /api/history  |  GET /health" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;labelBackgroundColor=#ffffff;align=center;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="550" y="230" as="sourcePoint" />
+        <mxPoint x="550" y="300" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+
+
+    <!-- ============================================================ -->
+    <!--  TIER 2: APPLICATION LAYER (NODE.JS & EXPRESS BACKEND)       -->
+    <!-- ============================================================ -->
+    <mxCell id="tier2_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="300" width="1000" height="190" as="geometry" />
+    </mxCell>
+    <mxCell id="tier2_label" value="TIER 2: APPLICATION &amp; ORCHESTRATION LAYER (Node.js &amp; Express.js Runtime Environment)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="65" y="305" width="650" height="20" as="geometry" />
+    </mxCell>
+
+    <mxCell id="be_server" value="Express Server (server.js)&#xa;• Port 5001 / Production Port&#xa;• CORS &amp; JSON Body Parser&#xa;• Static File Hosting (Frontend)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="70" y="335" width="180" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="be_router" value="API Router (routes/api.js)&#xa;• POST /api/recommend&#xa;• GET /api/history&#xa;• Input Range Validation&#xa;• Land Area &amp; Contact Extractor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="280" y="335" width="195" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="be_bridge" value="IPC ML Bridge (ml_bridge.js)&#xa;[Authored by: Naman - ML Integration Lead]&#xa;• child_process.spawn('python3')&#xa;• stdin / stdout Pipe Serialization&#xa;• 5000ms Watchdog Timer &amp; Kill Signal&#xa;• Agronomic Fallback Failover Heuristic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="505" y="335" width="270" height="110" as="geometry" />
+    </mxCell>
+
+    <mxCell id="be_db_service" value="Database Service&#xa;(mongodb_service.js)&#xa;• Mongoose Connection Pooling&#xa;• Async Save Recommendation&#xa;• Query Historical Consultations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="805" y="335" width="230" height="90" as="geometry" />
+    </mxCell>
+
+    <!-- Connectors inside Tier 2 -->
+    <mxCell id="c_s_r" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" source="be_server" target="be_router" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="c_r_b" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" source="be_router" target="be_bridge" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+    <mxCell id="c_r_d" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=1.2;endArrow=block;endFill=1;" edge="1" source="be_router" target="be_db_service" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+
+    <!-- ============================================================ -->
+    <!--  PROTOCOL CONNECTORS (Tier 2 <-> Tier 3)                      -->
+    <!-- ============================================================ -->
+    <!-- IPC Connector: ml_bridge -> Python Engine -->
+    <mxCell id="conn_ipc" value="Inter-Process Communication (IPC Pipe)&#xa;stdin: JSON Soil Vector  |  stdout: JSON Predictions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;labelBackgroundColor=#ffffff;align=center;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="640" y="445" as="sourcePoint" />
+        <mxPoint x="430" y="560" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+
+    <!-- Mongoose Connector: mongodb_service -> MongoDB Atlas -->
+    <mxCell id="conn_mongo" value="Mongoose ODM Driver Protocol&#xa;mongodb+srv:// TCP Connection" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1.5;fontFamily=Helvetica;fontSize=10;fontStyle=1;fontColor=#000000;labelBackgroundColor=#ffffff;align=center;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="920" y="425" as="sourcePoint" />
+        <mxPoint x="920" y="560" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+
+
+    <!-- ============================================================ -->
+    <!--  TIER 3: DATA & MACHINE LEARNING LAYER                       -->
+    <!-- ============================================================ -->
+    <mxCell id="tier3_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;dashed=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="560" width="1000" height="260" as="geometry" />
+    </mxCell>
+    <mxCell id="tier3_label" value="TIER 3: DATA &amp; MACHINE LEARNING INFERENCE LAYER (Cloud NoSQL &amp; Scikit-Learn Engine)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="65" y="565" width="650" height="20" as="geometry" />
+    </mxCell>
+
+    <!-- Sub-tier 3A: Python ML Engine -->
+    <mxCell id="ml_container" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;" vertex="1" parent="1">
+      <mxGeometry x="70" y="595" width="490" height="205" as="geometry" />
+    </mxCell>
+    <mxCell id="ml_cont_label" value="PYTHON ML INFERENCE ENGINE (predictor_service.py)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="80" y="600" width="470" height="20" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ml_rf" value="Random Forest Classifier&#xa;(indore_crop_model.pkl)&#xa;• 99.0% Validation Accuracy&#xa;• 100 Decision Trees (n_estimators=100)&#xa;• Multi-class Probability Extraction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="85" y="630" width="220" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ml_rank" value="Top-3 Crop Ranker&#xa;• Sort predict_proba()&#xa;• Primary + 2 Alternatives&#xa;• Confidence Score (%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="325" y="630" width="150" height="90" as="geometry" />
+    </mxCell>
+
+    <mxCell id="ml_fert" value="ICAR-IISR Stoichiometric Fertilizer Deficit Engine&#xa;• N-P-K Gap Analysis: Target - Soil Nutrient Value&#xa;• DAP = P_gap / 0.46  |  Urea = (N_gap - 0.18*DAP) / 0.46  |  MOP = K_gap / 0.60&#xa;• Organic Compost = 2.0 ton/acre Baseline (Vertisols Soil Organic Carbon)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="85" y="730" width="460" height="60" as="geometry" />
+    </mxCell>
+
+    <!-- Sub-tier 3B: MongoDB Cloud Database -->
+    <mxCell id="db_container" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;" vertex="1" parent="1">
+      <mxGeometry x="585" y="595" width="450" height="205" as="geometry" />
+    </mxCell>
+    <mxCell id="db_cont_label" value="MONGODB ATLAS CLOUD NO-SQL CLUSTER (recommendations Collection)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="595" y="600" width="430" height="20" as="geometry" />
+    </mxCell>
+
+    <mxCell id="db_doc" value="Embedded Document Model: RecommendationSchema&#xa;• _id (ObjectID PK)&#xa;• farmer_name, village / farmer_village, tehsil&#xa;• land_area (Acres), contact_no (Phone), created_at (Timestamp)&#xa;• soil_inputs: { N, P, K, ph, temperature, humidity, rainfall }&#xa;• primary_crop, confidence, alternative_crops: [crop2, crop3]&#xa;• fertilizer_plan: { urea_kg, dap_kg, mop_kg, organic_ton, remarks }" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;fontFamily=Helvetica;fontSize=9.5;fontColor=#000000;align=left;" vertex="1" parent="1">
+      <mxGeometry x="600" y="630" width="420" height="110" as="geometry" />
+    </mxCell>
+
+    <mxCell id="db_feature" value="Architectural Benefits: Zero $lookup Join Latency | High-Throughput Writes | Atomic Reads" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontFamily=Helvetica;fontSize=9;fontStyle=2;fontColor=#000000;align=center;" vertex="1" parent="1">
+      <mxGeometry x="600" y="750" width="420" height="35" as="geometry" />
+    </mxCell>
+
+
+    <!-- ============================================================ -->
+    <!--  BOTTOM CAPTION                                              -->
+    <!-- ============================================================ -->
+    <mxCell id="caption_fig" value="Figure 9.1: AgroSense Indore 3-Tier System Architecture Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+      <mxGeometry x="350" y="870" width="400" height="30" as="geometry" />
+    </mxCell>
+
+  </root>
+</mxGraphModel>
